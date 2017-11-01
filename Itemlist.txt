@@ -1,0 +1,1954 @@
+Health PotionxxDELIM1xxRegenerates 5 health every half-second for 15 seconds, restoring a total of 150 health .
+Limitations Limited to 5 at one time. Limited to one type of Healing Potion.
+Starter Items › Jungling
+Starter Items › Laning
+Tools › Consumable
+xxDELIM2xxControl WardxxDELIM1xxPlaces a visible ward with a range of 900 units that reveals nearby enemy wards and hidden traps while also disabling nearby enemy wards . Camouflaged units will also be revealed.
+Limit 1 Control Ward on the map per player.
+Limitations Can only carry 3 Control Wards in inventory.
+Starter Items › Laning
+Tools › Vision & Trinkets
+xxDELIM2xxRefillable PotionxxDELIM1xxRegenerates 5. 21 health every half-second for 12 seconds, restoring a total of 125 health .
+Holds up to 2 charges that refill upon visiting the store.
+Limitations Limited to one type of Potion.
+Corrupting Potion Hunter's Potion
+Starting Items › Jungle
+Starting Items › Lane
+Tools › Consumable
+Defense › Health Regen
+xxDELIM2xxCorrupting PotionxxDELIM1xxFor 12 seconds, regenerates 5. 20 health and 3. 125 mana every half-second for a total of 125 health and 75 mana as well as grants Touch of Corruption .
+Holds up to 3 charges that refill upon visiting the shop .
+Touch of Corruption: Abilities and basic attacks apply a burn that damages enemy champions for 15 - 30 (based on level) bonus magic damage over 3 seconds. Bonus damage is halved for area of effect and damage over time effects.
+Corrupting Potion can be used even at full health and mana .
+Limitations Limited to one type of Potion.
+Starting Items › Lane
+Tools › Consumable
+Defense › Health Regen
+Mana › Mana Regen
+xxDELIM2xxHunter's PotionxxDELIM1xxRegenerates 3. 75 health and 2. 18 mana every half-second for 8 seconds, restoring a total of 60 health and 35 mana .
+Holds up to 5 charges that refill upon visiting the store. Killing large monsters grants one charge.
+Killing a large monster at maximum charges will trigger the restoration at no cost to the charges.
+Limitations Limited to one type of Potion.
+Starting Items › Lane
+Tools › Consumable
+Defense › Health Regen
+Mana › Mana Regen
+xxDELIM2xxElixir of IronxxDELIM1xxGrants the following effects for 3 minutes: +300 health , +25% Tenacity , increased champion size, and Path of Iron .
+Tenacity: Reduces the duration of all crowd control effects by 25% (except for Suppression , Stasis , and Displacements )
+Unique – Path of Iron : Leaves a path behind that grants allied champions +15% movement speed .
+Limitations Only one Elixir may be active at a time.
+Requirements Level 9 required to purchase.
+Tools › Consumable
+Movement › Other Movement Items
+xxDELIM2xxElixir of SorceryxxDELIM1xxGrants the following effects for 3 minutes: +50 AP , +15 flat mana regeneration , and Sorcery .
+Unique – Sorcery : Damaging a champion or turret deals 25 bonus true damage (5 second cooldown against champions, no cooldown against turrets).
+Limitations Only one Elixir may be active at a time.
+Requirements Level 9 required to purchase.
+Tools › Consumable
+Magic › Mana Regen
+Magic › Ability Power
+xxDELIM2xxElixir of WrathxxDELIM1xxGrants the following effects for 3 minutes: +30 attack damage and Bloodlust .
+Unique – Bloodlust : Dealing physical damage to champions heals for 15% of the damage dealt.
+Limitations Only one Elixir may be active at a time.
+Requirements Level 9 required to purchase.
+Tools › Consumable
+Attack › Damage
+Attack › Life Steal
+xxDELIM2xxOracle's ExtractxxDELIM1xxGrants detection of nearby stealthed traps and camouflaged units for up to 5 minutes.
+Tools › Consumable
+Tools › Vision & Trinkets
+xxDELIM2xxTotal Biscuit of RejuvenationxxDELIM1xxRestores 15 health and 15 mana on consumption, and regenerates 5 health every half-second for 16. 5 seconds, restoring a total of 165 health .
+Limitations Limited to 5 at one time. Limited to one type of Healing Potion.
+Requirements Needs 1 point in Secret Stash
+Starter Items › Jungling
+Starter Items › Laning
+Tools › Consumable
+Availability Common
+Tier Consumable
+Consume Restores 80 health and 50 mana over 10 seconds.
+Menu N/A
+xxDELIM2xxPoro-SnaxxxDELIM1xxThis savory blend of free-range, grass-fed Avarosan game hens and organic, non-ZMO Freljordian herbs contains the essential nutrients necessary to keep your Poro purring with pleasure. All proceeds will be donated towards fighting Noxian animal cruelty.
+Serves a scrumptious scoop to a nearby Poro.
+xxDELIM2xxSweeping LensxxDELIM1xxSummons a drone at the target location for 6 seconds ( 500 / 800 / 1100 / 1400 / 1700 / 2000 range). The drone outlines camouflaged , invisible and unseen enemies ( including stealth, fog and brush ), reveals wards and stealthed traps , and disables wards within a 450 / 475 / 500 / 525 / 550 / 575 radius area ( 90 - 60 (based on level) second cooldown).
+Limitations Limited to 1 Trinket. Trinkets cannot be used in the first 30 seconds of a game. Selling a Trinket will disable Trinket use for 120 seconds.
+Starter Items › Jungling
+Tools › Vision & Trinkets
+xxDELIM2xxOracle AlterationxxDELIM1xxSummons a drone that escorts you for the next 10 seconds. The drone outlines camouflaged , invisible and unseen enemies ( including stealth, fog and brush ), reveals wards and stealthed traps , and disables wards within a 660 / 690 / 720 / 750 radius area ( 76 - 60 (based on level) second cooldown).
+Limitations Limited to 1 Trinket. Switching to a Totem-type Trinket will disable Trinket use for 120 seconds.
+Requirements Cannot be purchased until level 9 .
+Tools › Vision & Trinkets
+xxDELIM2xxWarding TotemxxDELIM1xxConsume a charge to place an invisible Stealth Ward which reveals the surrounding area for 60 - 120 (based on level) seconds. Stores one charge every 180 - 90 (based on level) seconds, up to 2 maximum charges.
+Limitations Limited to 1 Trinket. Trinkets cannot be used in the first 30 seconds of a game. Selling a Trinket will disable Trinket use for 120 seconds. Limited to 3 Stealth Wards on the map per player.
+Starter Items › Laning
+Tools › Vision & Trinkets
+xxDELIM2xxFarsight AlterationxxDELIM1xxReveals an area up to 4000 units away for 2 seconds ( 148 - 99 (based on level) second cooldown). Enemy champions hit will be revealed for 5 seconds. This does not affect stealth champions. Also places a visible Farsight Ward at the target location that lasts indefinitely.
+Limitations Limited to 1 Trinket. Switching to a Lens-type Trinket will disable Trinket use for 120 seconds.
+Requirements Cannot be purchased until level 9 .
+Tools › Vision & Trinkets
+xxDELIM2xxArcane Sweeper (Trinket)xxDELIM1xxCovers an area with stealth-detecting mist for 5 seconds, granting vision of units which pass through it for 3 seconds (90 second cooldown) (800 range, 375 AoE Radius).
+Limitations Limited to 1 Trinket. Trinkets cannot be used in the first 30 seconds of a game. Selling a Trinket will disable Trinket use for 120 seconds.
+Starter Items › Vision & Trinkets
+xxDELIM2xxAncient CoinxxDELIM1xx"Gold dust rises from the desert and clings to the coin." - Historian Shurelya, 11 November, 23 CLE
++5% cooldown reduction
++ 2 per 10 seconds
+Unique – Favor : Enemy minions killed by your allies sometimes drop coins that give either 25 or restore 6% missing mana (minimum 10). Cannon minions always drop coins.
+Unique – Quest : Earn 650 using this item and upgrade to Nomad's Medallion . Reward: Favor is upgraded to Emperor's Favor and you grant 8% bonus movement speed to nearby allied champions moving toward you (1250 range).
+Unique – Emperor's Favor : Enemy minions killed by your allies sometimes drop coins that give either 40 or restore 6% missing mana (minimum 10). Cannon minions always drop coins. Champion takedowns grant both the gold and mana.
+Limitations Limited to 1 Gold Income item.
+Nomad's Medallion
+Starter Items › Laning
+Tools › Gold Income
+Magic › Cooldown Reduction; Mana Regen
+xxDELIM2xxCullxxDELIM1xx+7 attack damage
++3 health on-hit
+Unique: Killing a minion grants +1 , up to a maximum of +100 .
+After having killed 100 minions, grants an additional +350 and permanently disables this passive .
+Attack › Damage
+Attack › Life Steal
+xxDELIM2xxThe Dark SealxxDELIM1xx+100 mana
++15 ability power
++25% increased healing from Health , Refillable , Corrupting and Hunter's Potions .
+Unique – Dread : Grants +3 ability power per stack of Glory .
+Unique – Do or Die : Grants 2 Glory ( +6 AP ) for a champion kill and 1 Glory ( +3 AP ) for an assist , up to a maximum of 10 Glory stacks ( +30 AP ). Upon death , lose 4 Glory stacks ( -12 AP ).
+Mejai's Soulstealer
+Ability › Power
+Magic ›
+xxDELIM2xxDoran's BladexxDELIM1xx+80 health
++8 attack damage
++3% life steal
+Starting Items › Lane
+Defense › Health
+Attack › Damage
+Attack › Life Steal
+xxDELIM2xxDoran's RingxxDELIM1xx+60 health
++50% base mana regeneration
++15 ability power
+Unique: Restores 4 mana upon killing an unit.
+Starting Items › Lane
+Magic › Ability Power
+Magic › Mana Regen
+Defense › Health
+xxDELIM2xxDoran's ShieldxxDELIM1xx+80 health
++6 flat health regeneration per 5 seconds.
+Basic attacks deal an additional 5 physical damage to minions on hit.
+Unique: Restores 20 health over 10 seconds after taking damage from an enemy champion.
+Starting Items › Lane
+Defense › Health
+Defense › Health Regen
+xxDELIM2xxGuardian's HammerxxDELIM1xx+150 health
++20 attack damage
++10% life steal
+Limitations Cannot purchase more than one Guardian's item.
+Starting Items › Lane
+Defense › Health
+Attack › Damage
+Attack › Life Steal
+xxDELIM2xxGuardian's HornxxDELIM1xx+150 health
++ 20 flat health regeneration per 5 seconds
+Unique: Blocks 12 damage from all champions sources (3 damage vs. damage over time abilities) .
+Limitations Cannot purchase more than one Guardian's item.
+Starting Items › Lane
+Defense › Health
+Defense › Health Regen
+xxDELIM2xxGuardian's OrbxxDELIM1xx+150 health
++35 ability power
++10 mana regeneration per 5 seconds
+Limitations Cannot purchase more than one Guardian's item.
+Starting Items › Lane
+Defense › Health
+Magic › Ability Power
+Magic › Mana Regeneration
+xxDELIM2xxRelic ShieldxxDELIM1xx+75 health
++ 2 per 10 seconds
+Unique – Spoils of War : Melee autoattacks execute minions below 200 - 285 (based on level) health. Killing a minion by any means heals you and the nearest allied champion for 15 health and grants them kill gold. These effects require an allied champion within 1050 units of the user and consume a charge. Recharges every 40 seconds. Max 2 charges.
+Unique – Quest : Earn 650 using this item and upgrade to Targon's Brace . Reward: Shield Battery , a permanent shield that regenerates slowly outside of combat.
+Unique – Shield Battery : Grants a permanent shield for 255 - 340 (based on level) . The shield regenerates slowly when out-of-combat. Executing minions with Spoils of War regenerates 64 - 85 (based on level) shield value.
+Limitations Limited to 1 Gold Income item.
+Targon's Brace
+Starter Items › Laning
+Tools › Gold Income
+Defense › Health
+xxDELIM2xxSpellthief's EdgexxDELIM1xx+25% base mana regeneration
++10 ability power
++ 2 per 10 seconds
+Unique – Tribute : Damaging spells and attacks against champions and buildings deal 10 additional damage and grant 8 . This can occur up to 3 times every 30 seconds. Killing a minion pauses Tribute generation for 8 seconds per minion slain. Cannot trigger Tribute more than once every 1. 25 seconds.
+Unique – Quest : Earn 650 using this item and upgrade to Frostfang . Reward: Tribute is upgraded into Queen's Tribute .
+Unique – Queen's Tribute : Spells and basic attacks against champions or buildings deal 10 additional damage, grant 15 and 50% bonus movement speed for 1 second (additional stacks extend duration). This can occur up to 3 times every 30 seconds. Cannot trigger Queen's Tribute more than once every 1. 25 seconds.
+Limitations Limited to 1 Gold Income item.
+Frostfang
+Starter Items › Laning
+Tools › Gold Income
+Magic › Ability Power
+Magic › Mana Regen
+xxDELIM2xxHunter's MachetexxDELIM1xx+10% life steal vs. monsters
+Unique – Nail : Basic attacks against monsters deal 25 bonus on-hit physical damage .
++50 bonus experience upon killing large monsters . +30 bonus experience on monster kill for each level higher the monster is than you.
+Limitations The bonus experience part does not stack with passive Tooth .
+Requirements Can only purchase if you have Smite .
+Skirmisher's Sabre Stalker's Blade Tracker's Knife
+Starter Items › Jungling
+Attack › Life Steal
+xxDELIM2xxHunter's TalismanxxDELIM1xx+150% base mana regeneration in the jungle
+Unique – Tooth : Damaging a monster applies Health Drain , which deals 25 magic damage over 5 seconds while restoring as much as health.
++50 bonus experience upon killing large monsters . +30 bonus experience on monster kill for each level higher the monster is than you.
+Limitations The bonus experience part does not stack with passive Nail .
+Requirements Can only purchase if you have Smite .
+Skirmisher's Sabre Stalker's Blade Tracker's Knife
+Starter Items › Jungling
+Magic › Mana Regen
+xxDELIM2xxSkirmisher's SabrexxDELIM1xx+10% life steal against monsters
++225% base mana regeneration while in the jungle
+Unique – Challenging Smite : Upgrades Smite to Challenging Smite .
+Challenging Smite can be cast on enemy champions , revealing them for 4 seconds, reducing their damage against you by 20% and making them take 60 - 162 (based on level) true damage over 3 seconds from your basic attacks for the duration.
+Unique – Tooth and Nail : Basic attacks versus monsters deal 25 bonus physical damage and damaging a monster through any means applies Health Drain , which deals 30 magic damage over 5 seconds while restoring as much as health.
++50 bonus experience upon killing large monsters . +30 bonus experience on monster kill for each level higher the monster is than you.
+Limitations Limited to one Jungle item.
+Bloodrazor Cinderhulk Runic Echoes Warrior
+Starter Items › Jungling
+Defense › Health Regen
+Attack › Damage
+Magic › Mana Regen
+xxDELIM2xxStalker's BladexxDELIM1xx+10% life steal against monsters
++225% base mana regeneration while in the jungle
+Unique – Chilling Smite : Upgrades Smite to Chilling Smite .
+Chilling Smite can be cast on enemy champions , dealing 28 - 166 (based on level) true damage and stealing 20% of their movement speed for 2 seconds.
+Unique – Tooth and Nail : Basic attacks versus monsters deal 25 bonus physical damage and damaging a monster through any means applies Health Drain , which deals 30 magic damage over 5 seconds while restoring as much as health.
++50 bonus experience upon killing large monsters . +30 bonus experience on monster kill for each level higher the monster is than you.
+Limitations Limited to one Jungle item.
+Bloodrazor Cinderhulk Runic Echoes Warrior
+Starter Items › Jungling
+Defense › Health Regen
+Attack › Damage
+Magic › Mana Regen
+xxDELIM2xxTracker's KnifexxDELIM1xx+10% life steal against monsters
++225% base mana regeneration while in the jungle
+Unique – Tooth and Nail : Basic attacks versus monsters deal 25 bonus physical damage and damaging a monster through any means applies Health Drain , which deals 30 magic damage over 5 seconds while restoring as much as health.
++50 bonus experience upon killing large monsters . +30 bonus experience on monster kill for each level higher the monster is than you.
+Unique – Warding : Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 2 charges which refill upon visiting the shop.
+Limitations Limited to one Jungle item. A player may only have 3 Stealth Wards on the map at one time.
+Bloodrazor Cinderhulk Runic Echoes Warrior
+Starter Items › Jungling
+Defense › Health Regen
+Attack › Damage
+Magic › Mana Regen
+Tools › Vision
+xxDELIM2xxBloodrazorxxDELIM1xx+50% attack speed
+Unique: Basic attacks deal 4% of the target’s maximum health bonus physical damage on-hit , capped at 75 damage against minions and monsters .
+Attack › Attack Speed
+xxDELIM2xxCinderhulkxxDELIM1xx+300 health
++20% bonus health
+Unique – Immolate : Deals 12 - 29 (based on level) magic damage per second to nearby enemies. Deals 「 200% bonus 」 「 36 - 87 (based on level) 」 magic damage to minions and monsters (325 range).
+Defense › Health
+xxDELIM2xxRunic EchoesxxDELIM1xx+7% movement speed
++60 ability power
+Unique – Echo : Gains charges upon moving or casting. At 100 charges, the next instance of ability damage you deal will expend all charges to deal 60 (+ 10% AP) bonus magic damage to the first enemy hit and summon up to 3 lesser bolts that target nearby enemies , prioritizing enemies damaged by the ability and champions over minions.
+Echo is amplified to 「 250% 」 「 150 (+ 25% AP) 」 magic damage on large monsters . Hitting a large monster with this effect will restore 15% of your missing mana .
+Magic › Ability Power
+Movement › Other Movement Items
+xxDELIM2xxWarriorxxDELIM1xx+60 attack damage
++10% cooldown reduction
+Attack › Damage
+Magic › Cooldown Reduction
+xxDELIM2xxBoots of SpeedxxDELIM1xxUnique – Enhanced Movement : +25 flat movement speed
+Berserker's Greaves Boots of Mobility Boots of Swiftness Ionian Boots of Lucidity Mercury's Treads Ninja Tabi Sorcerer's Shoes
+Movement › Boots
+xxDELIM2xxBerserker's GreavesxxDELIM1xx+35% attack speed
+Unique – Enhanced Movement : +45 flat movement speed
+Attack › Attack Speed
+Movement › Boots
+xxDELIM2xxBoots of MobilityxxDELIM1xxUnique – Enhanced Movement : +25 flat movement speed
+Increases to +115 flat movement speed when out-of-combat . Receiving damage , dealing damage or debuffing units will put you in-combat , disabling this passive for 5 seconds.
+Movement › Boots
+xxDELIM2xxBoots of SwiftnessxxDELIM1xxUnique – Enhanced Movement : +55 flat movement speed
+Unique – Slow Resist : Reduces the effectiveness of slows by 25%.
+Movement › Boots
+xxDELIM2xxIonian Boots of LucidityxxDELIM1xx"This item is dedicated in honor of Ionia 's victory over Noxus in the Rematch for the Southern Provinces on 10 December, 20 CLE."
+Unique: +10% cooldown reduction
+Unique – Enhanced Movement : +45 flat movement speed
+Unique: Reduces summoner spell cooldowns by 10%.
+Magic › Cooldown Reduction
+Movement › Boots
+xxDELIM2xxMercury's TreadsxxDELIM1xx+25 magic resistance
+Unique – Enhanced Movement : +45 flat movement speed
+Unique – Tenacity : Reduces the duration of all crowd control effects by 30% (except for Suppression , Stasis , and Displacements )
+Defense › Magic Resist
+Movement › Boots
+xxDELIM2xxNinja TabixxDELIM1xx+30 armor
+Unique – Enhanced Movement : +45 flat movement speed
+Unique: Reduces incoming damage from all basic attacks by 10% ( excluding turret shots ). Does not reduce damage of on-hit effects , it does however reduce damage of basic attack modifiers .
+Defense › Armor
+Movement › Boots
+xxDELIM2xxSorcerer's ShoesxxDELIM1xx"For nearly a century, the greatest mage in Valoran resided in the scorched desert of the Zear realm until the first crusade of the Rune Wars devastated the entire region forcing millions to flee. The crusaders killed all desperate travelers attempting the mass exodus from Zear, but one mage escaped their grasp by making such haste across the land that word spread throughout Valoran that the very shoes this mage wore must be imbued with immense power".
++15 magic penetration
+Unique – Enhanced Movement : +45 flat movement speed
+Movement › Boots
+xxDELIM2xxAmplifying TomexxDELIM1xx+20 ability power
+Aether Wisp Fiendish Codex Haunting Guise Hextech Revolver Lost Chapter Morellonomicon Rabadon's Deathcap Runic Echoes Rylai's Crystal Scepter Seeker's Armguard Void Staff
+Magic › Ability Power
+xxDELIM2xxB. F. SwordxxDELIM1xx+40 attack damage
+Essence Reaver Guardian Angel Infinity Edge The Bloodthirster
+Attack › Damage
+xxDELIM2xxBlasting WandxxDELIM1xx+40 ability power
+Banshee's Veil Frost Queen's Claim Guinsoo's Rageblade Liandry's Torment Lich Bane Rabadon's Deathcap Rod of Ages Rylai's Crystal Scepter Void Staff
+Magic › Ability Power
+xxDELIM2xxBrawler's GlovesxxDELIM1xx+10% critical strike chance
+Zeal
+Attack › Critical Strike
+xxDELIM2xxCloak of AgilityxxDELIM1xx+20% critical strike chance
+Essence Reaver Infinity Edge
+Attack › Critical Strike
+xxDELIM2xxCloth ArmorxxDELIM1xx+15 armor
+Aegis of the Legion Bramble Vest Chain Vest Glacial Shroud Guardian Angel Ninja Tabi Raptor Cloak Seeker's Armguard Warden's Mail
+Defense › Armor
+xxDELIM2xxDaggerxxDELIM1xx+12% attack speed
+Berserker's Greaves Kircheis Shard Phantom Dancer Recurve Bow Runaan's Hurricane Stinger Wit's End Zeal
+Attack › Attack Speed
+xxDELIM2xxFaerie CharmxxDELIM1xx+25% base mana regeneration
+Chalice of Harmony Forbidden Idol Frostfang Nomad's Medallion Tear of the Goddess
+Magic › Mana Regen
+xxDELIM2xxLong SwordxxDELIM1xx+10 attack damage
+Bilgewater Cutlass Caulfield's Warhammer Executioner's Calling Giant Slayer Jaurim's Fist Last Whisper Hexdrinker Phage Poacher's Dirk Serrated Dirk The Bloodthirster Tiamat Vampiric Scepter
+Attack › Damage
+xxDELIM2xxNeedlessly Large RodxxDELIM1xx+60 ability power
+Archangel's Staff Luden's Echo Rabadon's Deathcap Wooglet's Witchcap
+Magic › Ability Power
+xxDELIM2xxNull-Magic MantlexxDELIM1xx+25 magic resistance
+Adaptive Helm Aegis of the Legion Banshee's Veil Chalice of Harmony Hexdrinker Locket of the Iron Solari Mercury's Treads Negatron Cloak Quicksilver Sash Spectre's Cowl
+Defense › Magic Resistance
+xxDELIM2xxPickaxexxDELIM1xx+25 attack damage
+Death's Dance Edge of Night Guinsoo's Rageblade Infinity Edge Manamune Mercurial Scimitar Ravenous Hydra Sterak's Gage
+Attack › Damage
+xxDELIM2xxRejuvenation BeadxxDELIM1xx+50% base health regeneration
+Adaptive Helm Crystalline Bracer Raptor Cloak Targon's Brace Tiamat
+Defense › Health Regen
+xxDELIM2xxRuby CrystalxxDELIM1xx+150 health
+Bami's Cinder Catalyst of Aeons Crystalline Bracer Edge of Night Frozen Mallet Giant's Belt Haunting Guise Jaurim's Fist Kindlegem Phage Ruby Sightstone Sightstone Spectre's Cowl Sterak's Gage Sunfire Cape Thornmail Titanic Hydra
+Defense › Health
+xxDELIM2xxSapphire CrystalxxDELIM1xx+250 mana
+Catalyst of Aeons Glacial Shroud Lost Chapter Sheen Tear of the Goddess
+Magic › Mana
+xxDELIM2xxAegis of the LegionxxDELIM1xx+30 magic resistance
++30 armor
+Banner of Command Locket of the Iron Solari Zeke's Convergence
+Defense › Armor
+Defense › Magic Resist
+xxDELIM2xxAether WispxxDELIM1xx+30 ability power
+Unique: +5% movement speed
+Ardent Censer Lich Bane Luden's Echo Runic Echoes
+Magic › Ability Power
+Movement › Other Movement Items
+xxDELIM2xxBami's CinderxxDELIM1xx+200 health
+Unique – Immolate : Deals 6 - 23 (based on level) magic damage per second to nearby enemies. Deals 「 100% bonus 」 「 12 - 46 (based on level) 」 magic damage to minions and monsters (325 range).
+Cinderhulk Sunfire Cape
+Defense › Health
+xxDELIM2xxBilgewater CutlassxxDELIM1xx+25 attack damage
++10% life steal
+Unique: Deals 100 magic damage and slows the target enemy champion by 25% for 2 seconds (550 range) (90 second cooldown).
+Blade of the Ruined King Hextech Gunblade
+Attack › Damage
+Attack › Life Steal
+xxDELIM2xxBramble VestxxDELIM1xx+35 armor
+Unique – Thorns : Upon being hit by a basic attack, reflects 15 magic damage, inflicting Grievous Wounds on the attacker for 1 second.
+Thornmail
+Defense › Armor
+xxDELIM2xxCatalyst of AeonsxxDELIM1xx+225 health
++300 mana
+Unique – Eternity : 15% of damage taken from champions is gained as mana. Spending mana restores 20% of mana spent as health, up to 15 per cast (toggle spells heal for up to 15 per second).
+Abyssal Mask Hextech GLP-800 Rod of Ages
+Defense › Health
+Magic › Mana
+xxDELIM2xxCaulfield's WarhammerxxDELIM1xx+25 attack damage
+Unique: +10% cooldown reduction
+Death's Dance Duskblade of Draktharr Essence Reaver Lord Van Damm's Pillager Maw of Malmortius Warrior Youmuu's Ghostblade
+Attack › Damage
+Magic › Cooldown Reduction
+xxDELIM2xxChain VestxxDELIM1xx+40 armor
+Dead Man's Plate Gargoyle Stoneplate Knight's Vow Sunfire Cape Thornmail
+Defense › Armor
+xxDELIM2xxChalice of HarmonyxxDELIM1xx+30 magic resistance
++50% base mana regeneration
+Unique – Harmony : Gain +25% base health regeneration for every additional 25% base mana regeneration .
+Athene's Unholy Grail Mikael's Crucible
+Defense › Magic Resist
+Magic › Mana Regen
+Defense ›
+xxDELIM2xxCrystalline BracerxxDELIM1xx+200 health
++50% base health regeneration
+Redemption Righteous Glory Warmog's Armor
+Defense › Health
+Defense › Health Regen
+xxDELIM2xxExecutioner's CallingxxDELIM1xx+15 attack damage
+Unique – Executioner : Physical damage inflicts Grievous Wounds on enemy champions for 3 seconds.
+Mortal Reminder
+Attack › Damage
+xxDELIM2xxFiendish CodexxxDELIM1xx+30 ability power
+Unique: +10% cooldown reduction
+Athene's Unholy Grail Banshee's Veil Morellonomicon Nashor's Tooth Zhonya's Hourglass
+Magic › Ability Power
+Magic › Cooldown Reduction
+xxDELIM2xxForbidden IdolxxDELIM1xx+50% base mana regeneration
+Unique: +10% cooldown reduction
+Unique: +8% heal and shield power
+Ardent Censer Mikael's Crucible Redemption
+Magic › Cooldown Reduction
+Magic › Mana Regen
+xxDELIM2xxFrostfangxxDELIM1xx+50% base mana regeneration
++20 ability power
++10% cooldown reduction
++ 2 per 10 seconds
+Unique – Tribute : Damaging spells and attacks against champions and buildings deal 15 additional damage and grant 15 . This can occur up to 3 times every 30 seconds. Killing a minion pauses Tribute generation for 8 seconds per minion slain. Cannot trigger Tribute more than once every 1. 25 seconds.
+Unique – Quest : Earn 650 using this item. Reward: Tribute is upgraded into Queen's Tribute .
+Unique – Queen's Tribute : Spells and basic attacks against champions or buildings deal 15 additional damage, grant 15 and 50% bonus movement speed for 1 second (additional stacks extend duration). This can occur up to 3 times every 30 seconds. Cannot trigger Queen's Tribute more than once every 1. 25 seconds.
+Limitations Limited to 1 Gold Income item.
+Eye of the Watchers Frost Queen's Claim
+Tools › Gold Income
+Magic › Ability Power
+Magic › Cooldown Reduction
+Magic › Mana Regen
+xxDELIM2xxGiant's BeltxxDELIM1xx+380 health
+Dead Man's Plate Frozen Mallet Randuin's Omen Warmog's Armor
+Defense › Health
+xxDELIM2xxGiant SlayerxxDELIM1xx+10 attack damage
+Unique – Giant Slayer : Grants 0% - 10% (based on health difference) bonus physical damage against enemy champions with greater maximum health than you.
+Lord Dominik's Regards
+Attack › Damage
+xxDELIM2xxGlacial ShroudxxDELIM1xx+20 armor
++250 mana
+Unique: +10% cooldown reduction
+Frozen Heart Iceborn Gauntlet Righteous Glory Zeke's Convergence
+Defense › Armor
+Magic › Cooldown Reduction
+Magic › Mana
+xxDELIM2xxHaunting GuisexxDELIM1xx+200 health
++25 ability power
+Unique – Eyes of Pain : +15 magic penetration
+Liandry's Torment
+Defense › Health
+Magic › Ability Power
+xxDELIM2xxHexdrinkerxxDELIM1xx+35 magic resistance
++20 attack damage
+Unique – Lifeline : Upon taking magic damage that would reduce maximum health below 30% , grants a shield that absorbs 110 - 280 (based on level) magic damage for 5 seconds. (90 second cooldown)
+Maw of Malmortius
+Attack › Damage
+Defense › Magic Resist
+Availability Common
+Stats +20 attack damage +30 magic resistance
+Passive Unique: After taking magic damage you gain attack damage for 8 seconds. Bonus stacks up to 25 attack damage after taking 600 magic damage.
+Menu Attack > Attack Damage Defense > Magic Resistance
+xxDELIM2xxHextech RevolverxxDELIM1xx+40 ability power
+Unique – Magic Bolt : Damaging an enemy champion with a basic attack shocks them for 50 - 125 (based on level) bonus magic damage . (40 second cooldown, shared with other Hextech items.)
+Hextech Gunblade Hextech GLP-800 Hextech Protobelt-01
+Magic › Ability Power
+xxDELIM2xxJaurim's FistxxDELIM1xx+200 health
++15 attack damage
+Unique: Killing a unit grants 5 bonus health, stacking up to 20 times for a maximum of 100 bonus health.
+Frozen Mallet Lord Van Damm's Pillager Sterak's Gage Titanic Hydra
+Attack › Damage
+Defense › Health
+xxDELIM2xxKindlegemxxDELIM1xx+200 health
+Unique: +10% cooldown reduction
+Face of the Mountain Hextech Protobelt-01 Knight's Vow Ohmwrecker Spirit Visage The Black Cleaver Warmog's Armor
+Defense › Health
+Magic › Cooldown Reduction
+xxDELIM2xxKircheis ShardxxDELIM1xx+15% attack speed
+Unique – Energized Strike : Moving and using basic attacks Energize you. When fully Energized , your next basic attack deals +50 bonus on-hit magic damage .
+Rapid Firecannon Statikk Shiv
+Attack › Attack Speed
+xxDELIM2xxLast WhisperxxDELIM1xx+10 attack damage
+Unique – Last Whisper : +35% bonus armor penetration .
+Lord Dominik's Regards Mortal Reminder
+Attack › Damage
+xxDELIM2xxLost ChapterxxDELIM1xx+300 mana
++25 ability power
+Unique: Restores 20% of your maximum mana over 3 seconds upon leveling.
+Morellonomicon
+Magic › Ability Power
+Magic › Mana
+Magic › Mana Regen
+xxDELIM2xxNegatron CloakxxDELIM1xx+40 magic resistance
+Abyssal Mask Gargoyle Stoneplate Moonflair Spellblade Wit's End Zz'Rot Portal
+Defense › Magic Resistance
+xxDELIM2xxNomad's MedallionxxDELIM1xx"The medallion shines with the glory of a thousand voices when exposed to the sun." — Historian Shurelya, 22 June, 24 CLE
++50% base health regeneration
++10% cooldown reduction
++ 2 per 10 seconds
+Unique – Favor : Enemy minions killed by your allies sometimes drop coins that give either 40 or restore 6% missing mana (minimum 10). Cannon minions always drop coins.
+Unique – Quest : Earn 650 using this item. Reward: Favor is upgraded to Emperor's Favor and you grant 8% bonus movement speed to nearby allied champions moving toward you (1250 range).
+Unique – Emperor's Favor : Enemy minions killed by your allies sometimes drop coins that give either 40 or restore 6% missing mana (minimum 10). Cannon minions always drops coins. Champion takedowns grant both the gold and mana.
+Limitations Limited to 1 Gold Income item.
+Eye of the Oasis Talisman of Ascension
+Tools › Gold Income
+Defense › Health Regen
+Magic › Mana Regen
+xxDELIM2xxPhagexxDELIM1xx+200 health
++15 attack damage
+Unique – Rage : Basic attacks ( on-hit ) grant +20 flat movement speed for 2 seconds. Killing a Unit grants +60 flat movement speed instead.
+Limitations On ranged champions , both movement speed bonuses are halved.
+The Black Cleaver Trinity Force
+Attack › Damage
+Defense › Health
+xxDELIM2xxPoacher's DirkxxDELIM1xx+10 attack damage
+Unique – Headhunter : After killing any enemy, your next damaging spell will deal 40 bonus physical damage to all enemies it hits (30 second cooldown).
+Unique: After poaching 3 large monsters from the enemy jungle (50 second cooldown), transforms into a Serrated Dirk .
+Attack › Damage
+xxDELIM2xxQuicksilver SashxxDELIM1xx+30 magic resistance
+Unique – Quicksilver : Removes all crowd control debuffs from your champion (90 second cooldown).
+Mercurial Scimitar
+Defense › Magic Resist
+xxDELIM2xxRaptor CloakxxDELIM1xx+30 armor
++125% base health regeneration
+Unique – Point Runner : Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+Banner of Command Ohmwrecker Talisman of Ascension Zz'Rot Portal
+Defense › Armor
+Defense › Health Regen
+Movement › Other Movement Items
+xxDELIM2xxRecurve BowxxDELIM1xx+25% attack speed
+Unique: +15 on-hit physical damage
+Blade of the Ruined King Bloodrazor Guinsoo's Rageblade Wit's End
+Attack › Attack Speed
+xxDELIM2xxSeeker's ArmguardxxDELIM1xx+30 armor
++20 ability power
+Unique: Killing a unit grants 0. 5 bonus ability power and armor, stacking up to 30 times for a maximum of 15 bonus ability power and armor.
+Moonflair Spellblade Wooglet's Witchcap Zhonya's Hourglass
+Defense › Armor
+Magic › Ability Power
+xxDELIM2xxSerrated DirkxxDELIM1xx+25 attack damage
+Unique: +10 Lethality ( 6. 22 - 10 (based on level) armor penetration )
+Unique – Headhunter : After killing any enemy, your next damaging spell will deal 40 bonus physical damage to all enemies it hits (30 second cooldown).
+Duskblade of Draktharr Edge of Night Youmuu's Ghostblade
+Attack › Damage
+Armor Penetration ›
+xxDELIM2xxSheenxxDELIM1xx+250 mana
++10% cooldown reduction
+Unique – Spellblade : After using an ability , your next basic attack ( on-hit ) deals (100% base AD) bonus damage (1. 5 second cooldown).
+Iceborn Gauntlet Lich Bane Trinity Force
+Magic › Cooldown Reduction
+Magic › Mana
+xxDELIM2xxSightstonexxDELIM1xx+150 health
+Unique – Warding : Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 3 charges which refill upon visiting the shop.
+Limitations A player may only have 3 Stealth Wards on the map at one time.
+Eye of the Equinox Eye of the Oasis Eye of the Watchers Ruby Sightstone
+Defense › Health
+Tools › Consumable
+xxDELIM2xxSpectre's CowlxxDELIM1xx+250 health
++25 magic resistance
+Unique: Grants 150% base health regeneration for 10 seconds after taking damage from an enemy champion .
+Adaptive Helm Spirit Visage
+Defense › Health
+Defense › Magic Resist
+xxDELIM2xxStingerxxDELIM1xx+35% attack speed
+Unique: +10% cooldown reduction
+Nashor's Tooth Trinity Force
+Attack › Attack Speed
+Magic › Cooldown Reduction
+xxDELIM2xxTargon's BracexxDELIM1xx+175 health
++50% base health regeneration
++ 2 per 10 seconds
+Unique – Spoils of War : Melee autoattacks execute minions below 210 - 380 (based on level) health. Killing a minion by any means heals you and the nearest allied champion for 40 health and grants them kill gold. These effects require an allied champion within 1050 units of the user and consume a charge. Recharges every 30 seconds. Max 3 charges.
+Unique – Quest : Earn 650 using this item. Reward: Shield Battery , a permanent shield that regenerates slowly outside of combat.
+Unique – Shield Battery : Grants a permanent shield for 255 - 340 (based on level) . The shield regenerates slowly when out-of-combat. Executing minions with Spoils of War regenerates 64 - 85 (based on level) shield value.
+Limitations Limited to 1 Gold Income item.
+Eye of the Equinox Face of the Mountain
+Tools › Gold Income
+Defense › Health
+Defense › Health Regen
+xxDELIM2xxTear of the GoddessxxDELIM1xx+250 mana
+Unique – Awe : Refunds 15% of mana spent .
+Unique – Mana Charge : Grants +4 mana (max +750 mana) for each spell cast and mana expenditure. (Occurs up to 2 times every 8 seconds).
+Archangel's Staff Manamune
+Magic › Mana
+Magic › Mana Regen
++250 mana
+Unique – Awe : Refunds 15% of mana spent .
+Unique – Mana Charge : Grants +5 mana (max +750 mana) for each spell cast and mana expenditure. (Occurs up to 2 times every 6 seconds). Gains +1 mana every 6 seconds.
+Archangel's Staff (Quick Charge) Manamune (Quick Charge)
+Magic › Mana
+Magic › Mana Regen
+xxDELIM2xxTiamatxxDELIM1xx+20 attack damage
++50% base health regeneration
+Unique – Cleave : Basic attacks deal (20% to 60% AD) physical damage to units around your target – ( 20% AD near the edge ) (350 units radius).
+Unique – Crescent : Deals (60% to 100% AD) physical damage to units around you – ( 60% AD near the edge ) (400 units radius) (10 second cooldown).
+Limitations Can only be purchased on melee champions.
+Ravenous Hydra Titanic Hydra
+Attack › Damage
+Defense › Health Regen
+xxDELIM2xxVampiric ScepterxxDELIM1xx+15 attack damage
++10% life steal
+Bilgewater Cutlass Death's Dance Mercurial Scimitar Ravenous Hydra The Bloodthirster
+Attack › Damage
+Attack › Life Steal
+xxDELIM2xxWarden's MailxxDELIM1xx+40 armor
+Unique – Cold Steel : When hit by basic attacks , cripples source's attack speed by 15% for 1 second.
+Frozen Heart Randuin's Omen Thornmail
+Defense › Armor
+xxDELIM2xxZealxxDELIM1xx+15% attack speed
++20% critical strike chance
+Unique: +5% movement speed
+Phantom Dancer Rapid Firecannon Runaan's Hurricane Statikk Shiv
+Attack › Attack Speed
+Attack › Critical Strike
+Movement › Other Movement Items
+xxDELIM2xxAbyssal MaskxxDELIM1xx+350 health
++55 magic resistance
++300 mana
++10% cooldown reduction
+Unique – Eternity : 15% of damage taken from champions is gained as mana. Spending mana restores 20% of mana spent as health, up to 25 per cast (toggle spells heal for up to 25 per second).
+Unique: Nearby enemy champions take 10% more magic damage (700 range).
+Defense › Health
+Defense › Magic Resist
+Magic › Mana
+Magic › Cooldown Reduction
+Defense › Health Regeneration
+Magic › Mana Regeneration
+Master Craftsman : All stats except Cooldown Reduction and Mana have been improved.
++550 health
++90 magic resistance
++300 mana
++10% cooldown reduction
+Unique – Eternity : 15% of damage taken from champions is gained as mana. Spending mana restores 20% of mana spent as health, up to 25 per cast (toggle spells heal for up to 25 per second).
+Unique: Nearby enemy champions take 10% more magic damage (700 range).
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Defense › Health
+Defense › Magic Resist
+Magic › Mana
+Magic › Cooldown Reduction
+Defense › Health Regeneration
+Magic › Mana Regeneration
+xxDELIM2xxAdaptive HelmxxDELIM1xx+350 health
++55 magic resistance
++100% base health regeneration
++10% cooldown reduction
+Unique: Taking magic damage from a spell or effect reduces all subsequent magic damage taken from that spell or effect by 20% for 4 seconds. Multiple sources of magic damage can have this effect active at any one time and the duration is tracked separately per source.
+Defense › Health
+Defense › Magic Resistance
+Defense › Health Renegeration
+Magic › Cooldown Reduction
+xxDELIM2xxArchangel's StaffxxDELIM1xx+250 mana
++80 ability power
+Unique – Awe : Grants bonus ability power equal to 3% maximum mana . Refunds 25% of mana spent .
+Unique – Mana Charge : Grants +8 maximum mana (max +750 mana) for each spell cast and mana expenditure (occurs up to 2 times every 8 seconds).
+Transforms into Seraph's Embrace at +750 mana.
+Seraph's Embrace
+Magic › Ability Power
+Magic › Mana
+Mana Regen ›
++250 mana
++80 ability power
+Unique – Awe : Grants bonus ability power equal to 3% maximum mana . Refunds 25% of mana spent .
+Unique – Mana Charge : Grants +12 maximum mana (max +750 mana) for each spell cast and mana expenditure (occurs up to 2 times every 8 seconds).
+Transforms into Seraph's Embrace (Quick Charge) at +750 mana.
+Seraph's Embrace (Quick Charge)
+Magic › Ability Power
+Magic › Mana
+xxDELIM2xxArdent CenserxxDELIM1xx+50% base mana regeneration
++60 ability power
++10% cooldown reduction
+Unique: +10% heal and shield power
+Unique: +8% movement speed
+Unique: Heals and shields on allied champions ( excluding yourself ) enhance your basic attacks and theirs for 6 seconds. Granting you and them + 20% - 35% (based on target's level) attack speed and 20 - 35 (based on target's level) bonus on-hit magic damage .
+Magic › Ability Power
+Magic › Cooldown Reduction
+Magic › Mana Regen
+Movement › Other Movement Items
+xxDELIM2xxAthene's Unholy GrailxxDELIM1xx+30 magic resistance
++100% base mana regeneration
++30 ability power
++10% cooldown reduction
+Unique: Gain 25% of the premitigation damage dealt to champions as Blood Charges , up to 100 - 250 (based on level) . Healing or shielding another ally consumes charges to heal them, up to the original effect amount.
+Unique – Dissonance : Gain +5 ability power for every additional 25% base mana regeneration . Disables Harmony on your other items.
+Defense › Magic Resist
+Magic › Ability Power
+Magic › Mana Regen
+Magic › Cooldown Reduction
+xxDELIM2xxBanner of CommandxxDELIM1xx+30 magic resistance
++60 armor
++125% base health regeneration
++10% cooldown reduction
+Unique – Point Runner : Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+Unique – Promote : Greatly increases the power of a lane minion and grants it immunity to magic damage (120 second cooldown) (1200 range).
+Defense › Armor
+Defense › Magic Resist
+Defense › Health Regeneration
+Magic › Cooldown Reduction
+Movement › Other Movement Items
+xxDELIM2xxBanshee's VeilxxDELIM1xx+60 magic resistance
++70 ability power
++10% cooldown reduction
+Unique: Grants a spell shield that blocks the next enemy ability . This shield refreshes after no damage is taken from enemy champions for 40 seconds.
+Defense › Magic Resist
+Magic › Ability Power
+Magic › Cooldown Reduction
+xxDELIM2xxBlade of the Ruined KingxxDELIM1xx+25% attack speed
++40 attack damage
++12% life steal
+Unique: Basic attacks deal 8% of the target's current health ( min 15 ) bonus on-hit physical damage ( max 60 against minions and monsters ).
+Unique: Deals 100 magic damage and steals 25% of the target's movement speed for 3 seconds (550 range) (90 second cooldown).
+Attack › Damage
+Attack › Attack Speed
+Attack › Life Steal
+xxDELIM2xxDead Man's PlatexxDELIM1xx"There's only one way you'll get this armor from me..." - forgotten namesake
++425 health
++60 armor
+Unique – Dreadnought : Generates Momentum stacks while moving, up to 100, granting up to +60 bonus movement speed . Momentum slowly decays while slowed or when using basic attacks and decays rapidly while immobilized or pacified .
+Unique – Crushing Blow : Basic attacks ( on-hit ) Basic attacks at 100 stacks deal +100 damage and slows its target by 50% for 1 second.
+Limitations On ranged champions, Crushing Blow cannot slow . However, Momentum will still discharge on-hit.
+Defense › Armor
+Defense › Health
+xxDELIM2xxDeath's DancexxDELIM1xx+80 attack damage
++10% cooldown reduction
+Unique: Instantly heal for 15% of all physical damage dealt. Area of effect physical damage only heals 5% for every unit affected.
+Unique: Stores 30% of all physical and magic damage received, and is taken as damage over time true damage instead, dealing one-third of the stored damage every second.
+Attack › Damage
+Attack › Life Steal
+Magic › Cooldown Reduction
+xxDELIM2xxDuskblade of DraktharrxxDELIM1xx+55 attack damage
++10% cooldown reduction
+Unique: +18 Lethality ( 11. 2 - 18 (based on level) armor penetration )
+Unique – Nightstalker : After being unseen for at least 1 second, your next basic attack against an enemy champion will have enhanced effects. Melee champions will deal 65 - 320 (based on level) bonus on-hit physical damage and slows by 99% for 0. 25 seconds. While ranged champions will only deal 45 - 300 (based on level) bonus on-hit physical damage and not apply the slow. The enhanced attack lasts 5 seconds after being seen by an enemy champion.
+Unique – Blackout : When spotted by an enemy ward, causes a blackout for 8 seconds, disabling all nearby enemy wards (90 second cooldown).
+Attack › Attack Damage
+Attack › Armor Penetration
+Magic › Cooldown Reduction
+xxDELIM2xxEdge of NightxxDELIM1xx+250 health
++55 attack damage
+Unique: +18 Lethality ( 11. 2 - 18 (based on level) armor penetration )
+Unique: Channels for 1. 5 seconds to gain a spell shield that blocks the next enemy ability within the next 7 seconds (40 second cooldown). Damage will interrupt the channel. You can move while channeling. If the channel is interrupted, the item is put on a reduced 5 second cooldown.
+Attack › Damage
+Defense › Health
+xxDELIM2xxEssence ReaverxxDELIM1xx+70 attack damage
++20% critical strike chance
+Unique: +10% cooldown reduction
+Unique: Gain 0% - 20% (based on critical strike chance) additional cooldown reduction. This bonus does not include the critical strike chance given by this item.
+Unique: Critical strikes restore 3% of your maximum mana pool.
+Attack › Damage
+Magic › Cooldown Reduction
+xxDELIM2xxEye of the EquinoxxxDELIM1xx+500 health
++200% base health regeneration
++10% cooldown reduction
++ 2 per 10 seconds
+Unique – Spoils of War : Melee autoattacks execute minions below 340 - 680 (based on level) health. Melee autoattacks that would proc Spoils of War gain 150 bonus range and slightly increased attack speed. Killing a minion by any means heals you and the nearest allied champion for 50 health and grants them kill gold. These effects require an allied champion within 850 units of the user and consume a charge. Recharges every 30 seconds. Max 4 charges.
+Unique – Quest : Earn 650 using this item. Reward: Shield Battery , a permanent shield that regenerates slowly outside of combat.
+Unique – Shield Battery : Grants a permanent shield for 255 - 340 (based on level) . The shield regenerates slowly when out-of-combat. Executing minions with Spoils of War regenerates 64 - 85 (based on level) shield value.
+Unique – Warding : Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges which refill upon visiting the shop.
+Limitations Limited to 1 Gold Income item. A player may only have 3 Stealth Wards on the map at one time.
+Tools › Gold Income
+Tools › Vision
+Defense › Health
+Defense › Health Regen
+xxDELIM2xxEye of the OasisxxDELIM1xx+200 health
++125% base health regeneration
++10% cooldown reduction
++ 2 per 10 seconds
+Unique – Favor : Enemy minions killed by your allies sometimes drop coins that give either 40 or restore 6% missing mana (minimum 10). Cannon minions always drop coins.
+Unique – Quest : Earn 650 using this item. Reward: Favor is upgraded to Emperor's Favor and you grant 8% bonus movement speed to nearby allied champions moving toward you (1250 range).
+Unique – Emperor's Favor : Enemy minions killed by your allies sometimes drop coins that give either 40 or restore 6% missing mana (minimum 10). Cannon minions always drop coins. Champion takedowns grant both the gold and mana.
+Unique – Warding : Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges which refill upon visiting the shop.
+Limitations Limited to 1 Gold Income item. A player may only have 3 Stealth Wards on the map at one time.
+Tools › Gold Income
+Tools › Vision
+Defense › Health
+Defense › Health Regen
+Magic › Mana Regen
+xxDELIM2xxEye of the WatchersxxDELIM1xx+200 health
++50% base mana regeneration
++35 ability power
++10% cooldown reduction
++ 2 per 10 seconds
+Unique – Tribute : Damaging spells and attacks against champions and buildings deal 15 additional damage and grant 15 . This can occur up to 3 times every 30 seconds. Cannot trigger Tribute more than every 1. 25 seconds.
+Unique – Quest : Earn 650 using this item. Reward: Tribute is upgraded into Queen's Tribute .
+Unique – Queen's Tribute : Spells and basic attacks against champions or buildings deal 10 additional damage, grant 15 and 50% bonus movement speed for 1 second (additional stacks extend duration). This can occur up to 3 times every 30 seconds. Cannot trigger Queen's Tribute more than once every 1. 25 seconds.
+Unique – Warding : Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges which refill upon visiting the shop.
+Limitations Limited to 1 Gold Income item. A player may only have 3 Stealth Wards on the map at one time.
+Tools › Gold Income
+Tools › Vision
+Defense › Health
+Magic › Ability Power
+Magic › Mana Regen
+xxDELIM2xxFace of the MountainxxDELIM1xx+450 health
++100% base health regeneration
++10% cooldown reduction
++ 2 per 10 seconds
+Unique – Spoils of War : Melee basic attacks execute minions below 340 - 680 (based on level) health. Melee autoattacks that would proc Spoils of War gain 150 bonus range and slightly increased attack speed. Killing a minion by any means heals you and the nearest allied champion for 50 health and grants them kill gold. These effects require an allied champion within 1050 units of the user. Recharges every 30 seconds. Max 4 charges.
+Unique – Quest : Earn 650 using this item. Reward: Shield Battery , a permanent shield that regenerates slowly outside of combat.
+Unique – Shield Battery : Grants a permanent shield for 255 - 340 (based on level) . The shield regenerates slowly when out-of-combat. Executing minions with Spoils of War regenerates 64 - 85 (based on level) shield value.
+Unique: Grant a shield to yourself and an ally equal to 10% of your maximum health for 4 seconds. After 4 seconds, the shield explodes to slow nearby enemies by 40% for 2 seconds (60 second cooldown).
+Limitations Limited to 1 Gold Income item.
+Tools › Gold Income
+Defense › Health
+Defense › Health Regen
+Magic › Cooldown Reduction
+xxDELIM2xxFrost Queen's ClaimxxDELIM1xx+50% base mana regeneration
++60 ability power
++10% cooldown reduction
++ 2 per 10 seconds
+Unique – Tribute : Damaging spells and attacks against champions and buildings deal 15 additional damage and grant 15 . This can occur up to 3 times every 30 seconds. Cannot trigger Tribute more than once every 1. 25 seconds.
+Unique – Quest : Earn 650 using this item. Reward: Tribute is upgraded into Queen's Tribute .
+Unique – Queen's Tribute : Spells and basic attacks against champions or buildings deal 10 additional damage, grant 15 and 50% bonus movement speed for 1 second (additional stacks extend duration). This can occur up to 3 times every 30 seconds. Cannot trigger Queen's Tribute more than once every 1. 25 seconds.
+Unique: Summon 2 icy ghosts for 6 seconds that seek out nearby enemy champions (4500 range). Ghosts reveal enemies on contact and reduce their movement speed by 40% for 2–5 seconds (90 second cooldown).
+Limitations Limited to 1 Gold Income item.
+Magic › Cooldown Reduction
+Magic › Ability Power
+Magic › Mana Regen
+Tools › Gold Income
+xxDELIM2xxFrozen HeartxxDELIM1xx+90 armor
++400 mana
++20% cooldown reduction
+Unique: Cripples nearby enemies' attack speed by 15% (700 range).
+Defense › Armor
+Magic › Cooldown Reduction
+Magic › Mana
+xxDELIM2xxFrozen MalletxxDELIM1xx+700 health
++30 attack damage
+Unique – Icy : Basic attacks ( on-hit ) apply a 40% slow to your target for 1. 5 seconds, refreshing with every hit.
+Limitations On ranged champions , applies a 30% slow instead.
+Attack › Damage
+Defense › Health
+xxDELIM2xxGargoyle StoneplatexxDELIM1xx+40 magic resistance
++40 armor
+Unique – Stone Skin : If 3 or more enemy champions are nearby, grants 40 bonus armor and 40 bonus magic resistance .
+Unique – Metallicize : Increases current and maximum health by 40% , as well as champion size, but reduces the damage you deal by 60% for 4 seconds. If Stone Skin is active, instead increases health by 100% (90 second cooldown). Current health percentage is conserved when the effect ends, as well.
+Defense › Armor
+Defense › Magic Resistance
+Defense › Health
+xxDELIM2xxGuardian AngelxxDELIM1xx+30 armor
++40 attack damage
+Unique: Upon taking lethal damage, restores 50% of base health and 30% of maximum mana after 4 seconds of stasis (300 second cooldown ).
+Defense › Armor
+Defense › Magic Resist
+xxDELIM2xxGuinsoo's RagebladexxDELIM1xx+25% attack speed
++35 attack damage
++50 ability power
+Basic attacks deal +15 on-hit magic damage .
+Unique: Basic attacks grant +8% attack speed , +3 attack damage and +4 ability power for 5 seconds, stacking up to 6 times, granting a total of +48% attack speed , +18 attack damage and +24 ability power . At 6 stacks , gain Guinsoo's Rage .
+Unique – Guinsoo's Rage : Every other basic attack will trigger on-hit effects an additional time.
+Attack › Damage
+Attack › Attack Speed
+Magic › Ability Power
+xxDELIM2xxHextech GLP-800xxDELIM1xx+300 health
++400 mana
++80 ability power
+Unique – Eternity : 15% of damage taken from champions is gained as mana . Spending mana restores 20% of the cost as health , up to 25 per spell cast.
+Unique – Frost Bolt : Fires a spray of icy bolts that explode, dealing 100 - 200 (based on level) (+ 35% AP) magic damage to all enemies hit (40 second cooldown , shared with other Hextech items). Enemies hit are slowed by 65% decaying over 0. 5 seconds.
+Defense › Health
+Magic › Ability Power
+Magic › Mana
+xxDELIM2xxHextech GunbladexxDELIM1xx+40 attack damage
++80 ability power
+Unique: Instantly heal for 15% of all damage dealt, including physical , magic , and true damage . This is 33% effective for area of effect damage.
+Unique – Lightning Bolt : Instantly deals 175 - 250 (based on level) (+ 30% AP) magic damage and slows the target champion's movement speed by 40% for 2 seconds (700 range) (40 second cooldown, shared with other Hextech items).
+Attack › Damage
+Attack › Life Steal
+Magic › Ability Power
+xxDELIM2xxHextech Protobelt-01xxDELIM1xx+300 health
++60 ability power
++10% cooldown reduction
+Unique – Fire Bolt : Dash forward and unleash a nova of seven fire bolts that individually deal 75 - 150 (based on level) (+ 25% AP) magic damage (40 second cooldown , shared with other Hextech items). Champions and monsters hit by multiple fire bolts take 10% damage per additional bolt.
+Limitations This dash cannot pass through terrain.
+Defense › Health
+Magic › Ability Power
+Magic › Cooldown Reduction
+xxDELIM2xxIceborn GauntletxxDELIM1xx+65 armor
++500 mana
++20% cooldown reduction
+Unique – Spellblade : After using an ability , your next basic attack ( on-hit ) deals (100% base AD) bonus damage (1. 5 second cooldown).
+Unique – Icy Zone : Triggering Spellblade also deals (100% base AD) physical damage to enemies surrounding the target and creates a icy zone for 2 seconds, which slows enemies within by 30%. The zone has a radius of 180 (+ 55% bonus armor) units.
+Defense › Armor
+Magic › Ability Power
+Magic › Cooldown Reduction
+Magic › Mana
+xxDELIM2xxInfinity EdgexxDELIM1xx+70 attack damage
++20% critical strike chance
+Unique: Critical strike bonus damage is increased by 50%.
+Attack › Damage
+Attack › Critical Strike
+Master Craftsman : All stats except Critical Strike Chance have been improved.
++100 attack damage
++20% critical strike chance
+Unique: Critical strike bonus damage is increased by 50%.
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Attack › Damage
+Attack › Critical Strike
+xxDELIM2xxKnight's VowxxDELIM1xx+250 health
++40 armor
++10% cooldown reduction
+Unique: If your Partner is nearby, gain 20 armor , and 15% bonus movement speed while moving toward them.
+Unique: While within a 1000 range of your Partner , heal for 12% of the damage your Partner deals to champions and redirect 12% of the damage your Partner takes from champions ( after reductions ) to you as true damage . Both effects are reduced to 6% if the item holder is ranged .
+Unique: Designate an allied champion as your Partner (90 second cooldown).
+Defense › Health
+Defense › Armor
+Magic › Cooldown Reduction
+xxDELIM2xxLiandry's TormentxxDELIM1xx+300 health
++80 ability power
+Unique – Eyes of Pain : +15 magic penetration
+Unique: Dealing spell damage applies a damage-over-time effect that deals bonus magic damage equal to 2% of the target's current health per second for 3 seconds. This bonus damage is doubled to 4% of the target's current health against movement-impaired units and capped at 100 damage per second against monsters .
+Defense › Health
+Magic › Ability Power
+xxDELIM2xxLich BanexxDELIM1xx+7% movement speed
++250 mana
++80 ability power
++10% cooldown reduction
+Unique – Spellblade : After using an ability , your next basic attack ( on-hit ) deals 75% base AD (+ 50% AP) bonus magic damage (1. 5 second cooldown ).
+Magic › Ability Power
+Magic › Mana
+Movement › Other Movement Items
+xxDELIM2xxLocket of the Iron SolarixxDELIM1xx+60 magic resistance
++30 armor
+Unique: Grants a decaying shield to nearby allied champions and yourself for up to 2. 5 seconds, absorbing up to 60 - 434 (based on target's level) (+ 2% - 36% (based on level) of caster's bonus health) damage (90 second cooldown) (600 range).
+Limitations This effect is halved if the target has been affected by another Locket of the Iron Solari in the last 8 seconds.
+Defense › Armor
+Defense › Magic Resist
+Master Craftsman : All stats have been improved.
++75 magic resistance
++45 armor
+Unique: Grants a decaying shield to nearby allied champions and yourself for up to 2. 5 seconds, absorbing up to 60 - 434 (based on target's level) (+ 2% - 36% (based on level) of caster's bonus health) damage (90 second cooldown) (600 range).
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Defense › Armor
+Defense › Magic Resist
+xxDELIM2xxLord Dominik's RegardsxxDELIM1xx+50 attack damage
+Unique – Giant Slayer : Grants 0% - 20% (based on health difference) bonus physical damage against enemy champions with greater maximum health than you.
+Unique – Last Whisper : + 35% bonus armor penetration .
+Attack › Damage
+xxDELIM2xxLuden's EchoxxDELIM1xx+10% movement speed
++100 ability power
+Unique – Echo : Gains charges upon moving or casting. At 100 charges, the next instance of ability damage you deal will expend all charges to deal 100 (+ 10% AP) bonus magic damage to the first enemy hit and summon up to 3 lesser bolts that target nearby enemies , prioritizing enemies damaged by the ability and champions over minions.
+Magic › Ability Power
+Movement › Other Movement Items
+xxDELIM2xxManamunexxDELIM1xx+25 attack damage
++250 mana
+Unique – Awe : Grants bonus attack damage equal to 2% maximum mana . Refunds 15% of mana spent .
+Unique – Mana Charge : Grants +4 maximum mana for each basic attack, spell cast, and mana expenditure (occurs up to 2 times every 8 seconds), while also passively generating 1 maximum mana every 8 seconds.
+Transforms into Muramana at +750 mana.
+Muramana
+Magic › Mana
+Attack › Damage
+Magic › Mana Regen
++25 attack damage
++250 mana
+Unique – Awe : Grants bonus attack damage equal to 2% maximum mana . Refunds 15% of mana spent .
+Unique – Mana Charge : Grants +6 maximum mana for each basic attack, spell cast, and mana expenditure (occurs up to 2 times every 6 seconds).
+Transforms into Muramana at +750 mana.
+Muramana (Quick Charge)
+Magic › Mana
+Attack ›
+Magic › Mana Regen
+xxDELIM2xxMaw of MalmortiusxxDELIM1xx+45 magic resistance
++50 attack damage
++10% cooldown reduction
+Upon taking magic damage that would reduce maximum health below 30% , grants Lifeline and Lifegrip (90 second cooldown).
+Unique – Lifeline : Grants a shield that absorbs 300 (+ 100% bonus magic resistance) magic damage for 5 seconds.
+Unique – Lifegrip : Grants +20 attack damage , +10% spell vamp and +10% life steal until out-of-combat.
+Defense › Magic Resistance
+Attack › Damage
+Magic › Cooldown Reduction
+xxDELIM2xxMejai's SoulstealerxxDELIM1xx+200 mana
++20 ability power
+Unique – Dread : Grants +5 ability power per stack of Glory . Grants +10% movement speed at 15 Glory .
+Unique – Do or Die : Grants 4 Glory ( +20 AP ) for a champion kill and 2 Glory ( +10 AP ) for an assist , up to 25 Glory ( +125 AP ). Upon death , lose 10 Glory stacks ( -50 AP ).
+Magic › Ability Power
+xxDELIM2xxMercurial ScimitarxxDELIM1xx+35 magic resistance
++65 attack damage
++10% life steal
+Unique – Quicksilver : Removes all crowd control debuffs from your champion and grants +50% movement speed for 1 second (90 second cooldown).
+Defense › Magic Resist
+Attack › Attack Damage
+Movement › Other Movement Items
+xxDELIM2xxMikael's CruciblexxDELIM1xx+40 magic resistance
++100% base mana regeneration
++10% cooldown reduction
+Unique: +20% heal and shield power
+Unique – Harmony : Gain +25% base health regeneration for every additional 25% base mana regeneration .
+Unique: Instantly removes all stuns , roots , taunts , fears , silences and slows on an allied champion, as well as granting 2 seconds of slow immunity. Successfully cleansing an effect will also grant the target 40% bonus movement speed for 2 seconds (120 second cooldown) (750 range).
+Defense › Magic Resist
+Magic › Mana Regen
+Magic › Cooldown Reduction
+xxDELIM2xxMoonflair SpellbladexxDELIM1xx+50 magic resistance
++50 armor
++50 ability power
+Unique – Tenacity : Reduces the duration of all crowd control effects by 35% (except for Suppression , Stasis , and Displacements )
+Magic › Ability Power
+Defense › Armor
+Defense › Magic Resist
+xxDELIM2xxMorellonomiconxxDELIM1xx+400 mana
++100 ability power
+Unique: +20% cooldown reduction
+Unique: Kills and assists restore 20% of your maximum mana .
+Unique: Dealing magic damage to an enemy champion below 35% health inflicts Grievous Wounds to them for 8 seconds.
+Magic › Ability Power
+Magic › Cooldown Reduction
+Magic › Mana
+Magic › Mana Regen
+xxDELIM2xxMortal ReminderxxDELIM1xx+50 attack damage
+Unique – Executioner : Physical damage inflicts Grievous Wounds on enemy champions for 5 seconds.
+Unique – Last Whisper : +35% bonus armor penetration .
+Attack › Damage
+xxDELIM2xxNashor's ToothxxDELIM1xx+50% attack speed
++80 ability power
+Unique: +20% cooldown reduction
+Unique: +15 (+ 15% AP) on-hit magic damage
+Attack › Attack Speed
+Magic › Ability Power
+Magic › Cooldown Reduction
+xxDELIM2xxOhmwreckerxxDELIM1xx+300 health
++50 armor
++150% base health regeneration
++10% cooldown reduction
+Unique – Point Runner : Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+Unique: Prevents nearby enemy towers from attacking for 3 seconds (120 second cooldown). This effect cannot be used against the same tower more than once every 8 seconds.
+Defense › Armor
+Defense › Health
+Defense › Health Regen
+Magic › Cooldown Reduction
+xxDELIM2xxPhantom DancerxxDELIM1xx+45% attack speed
++5% movement speed
++30% critical strike chance
+Unique – Spectral Waltz : Grants ghosting and +7% movement speed while within 550 units of a visible enemy champion .
+Unique – Lament : Grants 12% damage reduction against the last enemy champion hit ( ends after 10 seconds out-of-combat ).
+Attack › Attack Speed
+Attack › Critical Strike
+Movement › Other Movement Items
+xxDELIM2xxRabadon's DeathcapxxDELIM1xx+120 ability power
+Unique: +35% ability power
+Magic › Ability Power
+Master Craftsman : All stats have been improved.
++175 ability power
+Unique: +35% ability power
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Magic › Ability Power
+xxDELIM2xxRanduin's OmenxxDELIM1xx+400 health
++60 armor
+Unique: -20% critical strike damage taken from basic attacks .
+Unique – Cold Steel : When hit by basic attacks , cripples source's attack speed by 15% for 1 second.
+Unique: Slows all nearby units within 500 units range by 55% for 2 seconds (60 second cooldown ).
+Defense › Armor
+Defense › Health
+xxDELIM2xxRapid FirecannonxxDELIM1xx+30% attack speed
++5% movement speed
++30% critical strike chance
+Unique – Energized Strike : Moving and attacking generates Energize stacks, up to 100. When fully Energized , your next basic attack gains Firecannon .
+Unique – Firecannon : Your next basic attack gains 35% increased range (up to a maximum of +150 range) and deals 50 - 120 (based on level) bonus on-hit magic damage .
+Firecannon is applicable on structures.
+Attacks become Energized 25% faster.
+Attack › Critical Strike
+Attack › Attack Speed
+Movement › Other Movement Items
+xxDELIM2xxRavenous HydraxxDELIM1xx+80 attack damage
++100% base health regeneration
++12% life steal
+Life steal applies to 50% of Cleave and Crescent's splash physical damage .
+Unique – Cleave : Basic attacks deal (20% to 60% AD) physical damage to units around your target – ( 20% AD near the edge ) (350 units radius).
+Unique – Crescent : Deals (60% to 100% AD) physical damage to units around you – ( 60% AD near the edge ) (400 units radius) (10 second cooldown).
+Limitations Can only be purchased on melee champions.
+Attack › Damage
+Attack › Life Steal
+Defense › Health Regen
+xxDELIM2xxRedemptionxxDELIM1xx+200 health
++150% base mana regeneration
++50% base health regeneration
++10% cooldown reduction
+Unique: +10% heal and shield power
+Unique: The healing from the active effect is affected three times as much by increased healing and shielding power amplifiers.
+Unique: Target an area within 5500 range. After 2. 5 second, call down a beam of light to heal allies for 30 - 370 (based on target's level) , deals 10% of maximum health true damage to enemy champions and 250 true damage to minions (120 second cooldown). Can be used while dead.
+Limitations This effect is halved if the target has been affected by another Redemption in the last 12 seconds.
+Defense › Health
+Defense › Health Regen
+Magic › Mana Regen
+Magic › Cooldown Reduction
+Master Craftsman : All stats except Cooldown Reduction have been improved.
++300 health
++200% base mana regeneration
++150% base health regeneration
++10% cooldown reduction
+Unique: +10% heal and shield power
+Unique: The healing from the active effect is affected three times as much by increased healing and shielding power amplifiers.
+Unique: Target an area within 5500 range. After 2. 5 second, call down a beam of light to heal allies for 30 - 370 (based on target's level) , deals 10% of maximum health true damage to enemy champions and 250 true damage to minions (120 second cooldown). Can be used while dead.
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Defense › Health
+Defense › Health Regen
+Magic › Mana Regen
+Magic › Cooldown Reduction
+xxDELIM2xxRighteous GloryxxDELIM1xx+400 health
++30 armor
++300 mana
++100% base health regeneration
++10% cooldown reduction
+Unique: Grants +75% movement speed when moving towards enemies for 4 seconds. When this speed boost ends or when an enemy champion is within close proximity, it emits a shockwave, slowing nearby enemy champions by 75% for 2 seconds (90 second cooldown).
+Defense › Health
+Defense › Health Regen
+Defense › Armor
+Magic › Mana
+Magic › Cooldown Reduction
+xxDELIM2xxRod of AgesxxDELIM1xx+300 health
++300 mana
++60 ability power
+This item gains 20 health, 10 mana and 4 ability power every minute, up to 10 times.
+Unique – Eternity : 15% of damage taken from champions is gained as mana. Spending mana restores 20% of mana spent as health, up to 25 per cast (toggle spells heal for up to 25 per second).
+Defense › Health
+Magic › Ability Power
+Magic › Mana
++300 health
++300 mana
++60 ability power
+This item gains 20 health, 10 mana and 4 ability power every 40 seconds, up to 10 times.
+Unique – Eternity : 15% of damage taken from champions is gained as mana. Spending mana restores 25% of mana spent as health, up to 25 per cast (toggle spells heal for up to 25 per second).
+Defense › Health
+Magic › Ability Power
+Magic › Mana
+xxDELIM2xxRuby SightstonexxDELIM1xx+500 health
+Unique: Active ability items ' cooldowns are reduced by 20% each.
+Unique – Warding : Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges and refills when visiting the shop.
+Limitations A player may only have 3 Stealth Wards on the map at one time.
+Defense › Health
+Tools › Consumable
+xxDELIM2xxRunaan's HurricanexxDELIM1xx+40% attack speed
++7% movement speed
++30% critical strike chance
+Unique – Wind's Fury : When Basic attacking , bolts are fired at up to 2 enemies near the target , each dealing 40% AD physical damage . Bolts can critically strike and apply on-hit effects .
+Limitations Can only be purchased on ranged champions.
+Attack › Attack Speed
+Attack › Critical Strike
+Movement › Other Movement Items
+xxDELIM2xxRylai's Crystal ScepterxxDELIM1xx+300 health
++75 ability power
+Unique – Icy : Damaging abilities and pet attacks slow affected units by 20% for  1 second.
+Defense › Health
+Magic › Ability Power
+xxDELIM2xxSpirit VisagexxDELIM1xx+450 health
++55 magic resistance
++100% base health regeneration
++10% cooldown reduction
+Unique: Increases effectiveness of all sources of health restoration by 30% (including health regeneration , life steal and spell vamp ).
+Defense › Health
+Defense › Health Regeneration
+Defense › Magic Resist
+Magic › Cooldown Reduction
+xxDELIM2xxStatikk ShivxxDELIM1xx+35% attack speed
++5% movement speed
++30% critical strike chance
+Unique – Energized Strike : Moving and attacking generates Energize stacks, up to 100. When fully Energized , your next basic attack gains Shiv Lightning .
+Unique – Shiv Lightning : Your next basic attack ( on-hit ) sparks lightning to up to 5 nearby units, dealing 60 - 160 (based on level) bonus magic damage , increased to 99 - 264 (based on level) against minions .
+This damage can critically strike and scales with critical strike damage .
+Attack › Critical Strike
+Attack › Attack Speed
+Movement › Other Movement Items
+xxDELIM2xxSterak's GagexxDELIM1xx+450 health
+Unique: +50% base attack damage .
+Unique – Lifeline : Grants Sterak's Fury upon taking 400 - 1800 (based on level) damage within 5 seconds (60 second cooldown ).
+Unique – Sterak's Fury : For 8 seconds grants increased size, +30% Tenacity , and a shield that starts decaying after 0. 75 seconds based of 75% bonus health .
+Limitations Can only be purchased on melee champions.
+Attack › Damage
+Defense › Health
+xxDELIM2xxSunfire CapexxDELIM1xx+425 health
++60 armor
+Unique – Immolate : Deals 12 - 29 (based on level) magic damage per second to nearby enemies. Deals 「 200% bonus 」 「 36 - 87 (based on level) 」 magic damage to minions and monsters (325 range).
+Defense › Armor
+Defense › Health
+Master Craftsman : All stats have been improved.
++625 health
++90 armor
+Unique – Immolate : Deals 12 - 29 (based on level) magic damage per second to nearby enemies. Deals 「 200% bonus 」 「 36 - 87 (based on level) 」 magic damage to minions and monsters (325 range).
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Defense › Armor
+Defense › Health
+xxDELIM2xxTalisman of AscensionxxDELIM1xx"Praise the sun." — Historian Shurelya, 22 September, 25 CLE
++45 armor
++175% base health regeneration
++10% cooldown reduction
++ 2 per 10 seconds
+Unique – Point Runner : Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+Unique – Favor : Enemy minions killed by your allies sometimes drop coins that give either 40 or restore 6% missing mana (minimum 10). Cannon minions always drop coins.
+Unique – Quest : Earn 650 using this item. Reward: Favor is upgraded to Emperor's Favor and you grant 8% bonus movement speed to nearby allied champions moving toward you (1250 range).
+Unique – Emperor's Favor : Enemy minions killed by your allies sometimes drop coins that give either 40 or restore 6% missing mana (minimum 10). Cannon minions always drop coins. Champion takedowns grant both the gold and mana.
+Unique: Grants nearby allies +40% movement speed for 3 seconds (60 second cooldown) (600 range).
+Limitations Limited to 1 Gold Income item.
+Tools › Gold Income
+Defense › Armor
+Defense › Health Regen
+Magic › Mana Regen
+Magic › Cooldown Reduction
+Movement › Other Movement Items
+xxDELIM2xxThe Black CleaverxxDELIM1xx+400 health
++40 attack damage
++20% cooldown reduction
+Unique: Dealing physical damage to an enemy champion Cleaves them, reducing their armor by 4% for 6 seconds, stacking up to 6 times for a maximum of 24%.
+Unique – Rage : Dealing physical damage grants 20 movement speed for 2 seconds. Assists on Cleaved enemy champions or kills on any unit grant 60 movement speed for 2 seconds instead. This movement speed bonus is halved for ranged champions.
+Attack › Damage
+Magic › Cooldown Reduction
+Defense › Health
+Master Craftsman : All stats except Cooldown Reduction have been improved.
++550 health
++60 attack damage
++20% cooldown reduction
+Unique: Dealing physical damage to an enemy champion Cleaves them, reducing their armor by 4% for 6 seconds, stacking up to 6 times for a maximum of 24%.
+Unique – Rage : Dealing physical damage grants 20 movement speed for 2 seconds. Assists on Cleaved enemy champions or kills on any unit grant 60 movement speed for 2 seconds instead. This movement speed bonus is halved for ranged champions.
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Attack › Damage
+Magic › Cooldown Reduction
+Defense › Health
+xxDELIM2xxThe BloodthirsterxxDELIM1xx+80 attack damage
+Unique: +20% life steal
+Unique: Your life steal overheals you, converting the excess healing into a shield that absorbs up to 50 - 350 (based on level) damage and decays when out-of-combat for 25 seconds.
+Attack › Damage
+Attack › Life Steal
+xxDELIM2xxThornmailxxDELIM1xx+250 health
++80 armor
+Unique – Thorns : Upon being hit by a basic attack, reflects magic damage equal to 25 (+ 10% bonus armor) , while also inflicting Grievous Wounds on the attacker for 1 second.
+Unique – Cold Steel : When hit by basic attacks , cripples source's attack speed by 15% for 1 second.
+Defense › Armor
+Defense › Health
+xxDELIM2xxTitanic HydraxxDELIM1xx+450 health
++35 attack damage
++100% base health regeneration
+Unique – Cleave : Basic attacks deal 5 (+ 1% maximum health) bonus on-hit physical damage . Additionally, basic attacks also deal 40 (+ 2. 5 % maximum health) physical damage in a cone to units behind the target (700 range).
+Unique – Crescent : On your next basic attack, Cleave's damage to all targets is increased to 40 (+ 10% maximum health) and has a larger cone (20 second cooldown). Crescent resets your autoattack timer.
+Limitations Can only be purchased on melee champions.
+Attack › Damage
+Attack ›
+Defense › Health
+Defense › Health Regen
+xxDELIM2xxTrinity ForcexxDELIM1xx+250 health
++40% attack speed
++25 attack damage
++5% movement speed
++250 mana
++20% cooldown reduction
+Unique – Spellblade : After using an ability , your next basic attack ( on-hit ) deals (200% base AD) bonus damage (1. 5 second cooldown).
+Unique – Rage : Basic attacks ( on-hit ) grant +20 flat movement speed for 2 seconds. Killing a unit grants +60 flat movement speed instead. Bonus movement speed is halved on ranged champions .
+Attack › Attack Speed
+Attack › Damage
+Defense › Health
+Magic › Cooldown Reduction
+Magic › Mana
+Movement › Other Movement Items
+Master Craftsman : All stats except Cooldown Reduction have been improved.
++350 health
++50% attack speed
++35 attack damage
++8% movement speed
++350 mana
++20% cooldown reduction
+Unique – Spellblade : After using an ability , your next basic attack ( on-hit ) deals (200% base AD) bonus damage (1. 5 second cooldown).
+Unique – Rage : Basic attacks ( on-hit ) grant +20 flat movement speed for 2 seconds. Killing a unit grants +60 flat movement speed instead. Bonus movement speed is halved on ranged champions .
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Attack › Attack Speed
+Attack › Damage
+Defense › Health
+Magic › Cooldown Reduction
+Magic › Mana
+Movement › Other Movement Items
+xxDELIM2xxVoid StaffxxDELIM1xx+80 ability power
+Unique: Magic damage ignores 35% of the target's magic resistance (applies before magic penetration )
+Magic › Ability Power
+xxDELIM2xxWarmog's ArmorxxDELIM1xx+800 health
++200% base health regeneration
+Unique: +10% cooldown reduction
+Grants Warmog's Heart if you have at least 2750 maximum health .
+Unique – Warmog's Heart : Regenerate 「 2. 5 % maximum health every half-second 」 「 25% maximum health every 5 seconds 」 if damage has not been taken in the last 6 seconds (3 second for minions).
+Defense › Health
+Defense › Health Regen
+xxDELIM2xxWit's EndxxDELIM1xx+40 magic resistance
++40% attack speed
+Unique: +40 bonus on-hit magic damage
+Unique: Basic attacks ( on-hit ) grant +5 magic resistance and reduce the target's magic resistance by 5 for 5 seconds. Stacks up to 5 times for a total of +25 bonus magic resistance and -25 magic resistance reduction .
+Attack › Attack Speed
+Defense › Magic Resistance
+xxDELIM2xxWooglet's WitchcapxxDELIM1xx+45 armor
++100 ability power
+Unique: +25% ability power
+Unique – Stasis : Put yourself in stasis for 2. 5 seconds, rendering yourself untargetable and invulnerable for the duration, but also unable to move, attack, cast spells, or use items during this time (120 second cooldown).
+Magic › Ability Power
+Defense › Armor
+Master Craftsman : All stats except Armor have been improved.
++45 armor
++155 ability power
+Unique: +25% ability power
+Unique – Stasis : Put yourself in stasis for 2. 5 seconds, rendering yourself untargetable and invulnerable for the duration, but also unable to move, attack, cast spells, or use items during this time (120 second cooldown).
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Magic › Ability Power
+Defense › Armor
+xxDELIM2xxYoumuu's GhostbladexxDELIM1xx+55 attack damage
++10% cooldown reduction
+Unique: +18 Lethality ( 11. 2 - 18 (based on level) armor penetration )
+Unique: +40 movement speed out-of-combat.
+Unique: Gain +20% movement speed for 6 seconds (45 second cooldown).
+Attack › Damage
+Magic › Cooldown Reduction
+Movement › Other Movement Items
+xxDELIM2xxZeke's ConvergencexxDELIM1xx+30 magic resistance
++60 armor
++250 mana
++10% cooldown reduction
+Unique: Casting your ultimate near your ally summons a local frost storm for 10 seconds. As the storm rages, nearby enemies are slowed by 20% and your ally's attacks burn their targets for 50% bonus magic damage over 2 seconds (45 second cooldown).
+Unique – Frostfire Covenant : Slowing a burning enemy ignites your frost storm to deal 40 magic damage per second and slow by 40% instead for 3 seconds.
+Unique – Conduit : Bind to an ally without an existing Conduit (no cooldown).
+Magic › Mana
+Defense › Armor
+Defense › Magic resistance
+Magic › Cooldown Reduction
+xxDELIM2xxZhonya's HourglassxxDELIM1xx+45 armor
++70 ability power
++10% cooldown reduction
+Unique – Stasis : Put yourself in stasis for 2. 5 seconds, rendering yourself untargetable and invulnerable for the duration, but also unable to move, attack, cast spells, or use items during this time (120 second cooldown).
+Magic › Ability Power
+Magic › Cooldown Reduction
+Defense › Armor
+Master Craftsman : All stats except Cooldown Reduction have been improved.
++60 armor
++100 ability power
++10% cooldown reduction
+Unique – Stasis : Put yourself in stasis for 2. 5 seconds, rendering yourself untargetable and invulnerable for the duration, but also unable to move, attack, cast spells, or use items during this time (120 second cooldown).
+Limitations Only available while Ornn is on your team. Limited to one Master Craftsman item.
+Magic › Ability Power
+Magic › Cooldown Reduction
+Defense › Armor
+xxDELIM2xxZz'Rot PortalxxDELIM1xx+55 magic resistance
++55 armor
++125% base health regeneration
+Unique – Point Runner : Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+Unique: Spawns a Void Gate at target location for 120 seconds. Every 4 seconds the gate makes a Voidspawn that travels down the nearest lane and decays over time. Voidspawn explodes when attacking structures. Voidspawn ignore champions and void targets. The first and every fourth voidspawn gain 15% of your maximum health as damage (120 second cooldown).
+Defense › Armor
+Defense › Magic Resist
+Defense › Health Regen
+Movement › Other Movement
+Health 5 (modified)
+Health regen. After being out of combat for 5 seconds
+Attack damage 10
+Attack speed 0. 63
+Armor 100
+Magic res. 60
+Incoming damage modifier 1 from champion basic attacks Immune to champion abilities
+AoE resist. 100%
+Mov. speed Static
+Health 40
+Health regen. - 20% current health per 0. 25 seconds
+Attack damage 52 - 86 (based on level) (+ 15% of champion's maximum health)
+Attack speed 0. 69
+Range 100 / 450 / 350
+Armor 115
+Magic res. 20
+Mov. speed 467 / 520
+xxDELIM2xxMuramanaxxDELIM1xx+25 attack damage
++1000 mana
+Unique – Awe : Grants bonus attack damage equal to 2% maximum mana . Refunds 15% spent mana .
+Unique – Shock : Unit-targeted abilities and basic attacks on champions ( on-hit ) consume 3% current mana to deal 6% current mana bonus physical damage . This effect only activates while you have greater than 20% maximum mana .
++25 attack damage
++1000 mana
+Unique – Awe : Grants bonus attack damage equal to 2% maximum mana . Refunds 15% spent mana .
+Unique – Shock : Unit-targeted abilities and basic attacks on champions ( on-hit ) consume 3% current mana to deal 6% current mana bonus physical damage . This effect only activates while you have greater than 20% maximum mana .
+xxDELIM2xxSeraph's EmbracexxDELIM1xx+1000 mana
++80 ability power
+Unique – Awe : Grants bonus ability power equal to 3% maximum mana . Refunds 25% of mana spent .
+Unique – Mana Shield : Drains 20% of your current mana to shield yourself for an equal amount plus 150 for 3 seconds (120 second cooldown).
++1000 mana
++80 ability power
+Unique – Awe : Grants bonus ability power equal to 3% maximum mana . Refunds 25% of mana spent .
+Unique – Mana Shield : Drains 20% of your current mana to shield yourself for an equal amount plus 150 for 3 seconds (120 second cooldown).
+xxDELIM2xxDeath's DaughterxxDELIM1xxxxDELIM2xxFire at WillxxDELIM1xxxxDELIM2xxRaise MoralexxDELIM1xxxxDELIM2xxThe Black SpearxxDELIM1xxBinds with an ally for the remainder of the game, becoming Oathsworn Allies. Oathsworn empowers you both while near one another.
+Limitations Only available to Kalista .
+xxDELIM2xxPrototype Hex CorexxDELIM1xxGrants 1 - 18 (based on level) ability power and 10 - 180 (based on level) mana .
+Unique – Progress : This item can be upgraded three times, which each upgrade allowing Viktor to enhance one of his basic abilities.
+Limitations Only available to Viktor .
+The Hex Core mk-1
+xxDELIM2xxThe Hex Core mk-1xxDELIM1xxGrants 3 - 54 (based on level) ability power and 15 - 270 (based on level) mana .
+Unique – Progress : Viktor can upgrade one of his basic abilities.
+Limitations Only available to Viktor .
+The Hex Core mk-2
+xxDELIM2xxThe Hex Core mk-2xxDELIM1xxGrants 6 - 108 (based on level) ability power and 20 - 360 (based on level) mana .
+Unique – Progress : Viktor can upgrade one of his basic abilities.
+Limitations Only available to Viktor .
+Perfect Hex Core
+xxDELIM2xxPerfect Hex CorexxDELIM1xxViktor has reached the pinnacle of power.
+Grants 10 - 180 (based on level) ability power and 25 - 450 (based on level) mana .
+Unique – Progress : Viktor can upgrade one of his basic abilities. Upon upgrading each of his basic ability, Viktor gains Glorious Evolution .
+Unique – Glorious Evolution : Viktor upgrades his Chaos Storm .
+Limitations Only available to Viktor .
+xxDELIM2xxGolden TranscendencexxDELIM1xxAvailability Common
+Tier Trinket
+Active Use this trinket to teleport to one of the battle platforms. Can only be used from the summoning platform. Grand Invulnerability after teleporting for 1.5 second.
+Menu N/A
+xxDELIM2xxFlesheaterxxDELIM1xx"No need to sharpen after use."
++20 attack damage
++10% life steal
+Unique: Basic attacks build Flesh charges. At 5 charges, you gain the ability to cast Flesheater.
+Unique – Flesheater : Rip the flesh from the target enemy minion, dealing 200 (+75% AD) true damage and restoring 50 (+75% AD) health. Each cast of Fleasheater permanently increases the item's attack damage by 1.
+Limitations Melee only
+xxDELIM2xxMartyr's GambitxxDELIM1xx"Battle is not a test of strength. It is a test of will." - Buhru Proverb
++400 health
++100% base health regeneration
++10% cooldown reduction
+Unique: Binds yourself to the target allied champion for the next 3 seconds, redirecting 60% of all damage dealt to them to yourself. 30 second cooldown.
+xxDELIM2xxMirage BladexxDELIM1xx"Shurimans exploit every aspect of the desert."
++60 attack damage
++15% critical strike chance
++12% life steal
+Unique – Mark of the Sands : Basic attacks apply a Mark of the Sands to the target, revealing them for 3 seconds. Only a single enemy can be marked at a time.
+Unique – Mirage Step : Blinks 350 units directly away from the marked target. 60 second cooldown.
+xxDELIM2xxNetherstride GrimoirexxDELIM1xx"Walking our path, you make fast progress."
++100% base mana regeneration
++100 ability power
++20% cooldown reduction
+Unique – Malice : Gain 20% movement speed for 2 seconds whenever you deal ability damage.
+xxDELIM2xxPox ArcanaxxDELIM1xx"Wealth, land, secrets, love: how little they cherish when their bodies betray them."
++100% base mana regeneration
++100 ability power
++20% cooldown reduction
+Unique – Pox : Applies a stack of Pox for 10 seconds whenever you deal ability damage, stacking up to 5 times.
+Unique – Disease Harvest : Deals 100 magic damage plus 20 (+5% AP) per stack of Pox ( maximum of 200 (+25% AP) ) to all nearby enemies affected by Pox, and restores 5% of your maximum mana for every Pox stack harvested. 60 second cooldown.
+xxDELIM2xxPuppeteerxxDELIM1xx"Perhaps reading this wasn't your idea."
++250 health
++25 magic resistance
++50% base health regeneration
++20% cooldown reduction
+Unique – Mana Font : Restores 2% of your missing mana every 5 seconds.
+Unique: Basic attacks mark champions with a string for 6 seconds, which breaks if they move more than 1000 units away.
+Unique: Pulls all marked champions up to 250 units toward you. 45 second cooldown.
+xxDELIM2xxRite of RuinxxDELIM1xx"When all their works have crumbled, their hearts will be laid bare."
++100% base mana regeneration
++100 ability power
++20% cooldown reduction
+Unique – Razing : Gains charges upon moving or killing enemies, up to 300 charges. Attacking structures expends 50 charges to deal 100 (+15% AP) bonus true damage.
+xxDELIM2xxStaff of Flowing WaterxxDELIM1xx"News travels fast along the Ionian riverside."
++25 magic resistance
++50% base mana regeneration
++40 ability power
+Unique – Mana Font : Every 5 seconds, restores 2% of your missing mana .
+Unique: While in the river, grants +30% movement speed and +10 flat mana regeneration .
+xxDELIM2xxTeleportxxDELIM1xxAfter channeling for 4. 5 seconds, your champion teleports to target turret, minion or ward. You may reactivate Teleport to cancel it, placing it on a 200 second cooldown.
+Cooldown 300 seconds
+Range Global
+Breaks stealth Yes
+Level 6
+Availability S
+Tier Enchantment
+Active Unique – Teleport : After channeling for 3. 5 seconds, your champion teleports to the target allied object. 240 second cooldown. Purchasing Teleport puts the item on an initial 60 second cooldown.
+Menu N/A
+xxDELIM2xxTrickster's GlassxxDELIM1xx"Faces can not but lie."
++400 health
++60 ability power
+Unique – Eyes of Pain : +15 magic penetration
+Unique – Disguise : Teleports to the target allied champion (550 range) and takes on their appearance for 30 seconds. The disguise includes the target's current health, mana and emotes. The disguise is broken upon casting a spell or attacking, or upon your or the disguise's health being dropped to 0. 90 second cooldown.
+xxDELIM2xxTyphoon ClawsxxDELIM1xx"That is not the pounding of the rain."
++20% attack speed
++30 attack damage
++4% movement speed
+Unique – Phantom Hit : You generate a stack of Malice for 3 seconds each time you attack . At 3 stacks, your next 3 attacks occur in the span of one attack at maximum attack speed (for an effective attack speed of 7. 5 ). The flurried attacks are modified to deal only 50% damage, but otherwise behave like standard attacks.
+xxDELIM2xxMurkspherexxDELIM1xx"Profit makes fast friends."
++25% base mana regeneration
++5% cooldown reduction
+Unique – Swindler's Shield : Shields target ally from the next 60 damage. You generate 1 gold for every 4 damage absorbed (maximum of 15). Self-cast shields will not generate gold from monster damage. 15 second cooldown.
+Limitations Limited to 1 Gold Income item.
+Tools › Gold Income
+Magic › Cooldown Reduction
+Magic › Mana Regen
+xxDELIM2xxSwindler's OrbxxDELIM1xx"Partners in crime."
++50% base mana regeneration
++10% cooldown reduction
+Unique – Swindler's Shield : Shields target ally from the next 60 damage. You generate 1 for every 4 damage absorbed (maximum of 15 ). Self-cast shields will not generate gold from monster damage. 15 second cooldown.
+Limitations Limited to 1 Gold Income item.
+xxDELIM2xxGlobe of TrustxxDELIM1xx"Theft is better with accomplices."
++150% base mana regeneration
++20% cooldown reduction
+Unique – Safe Harbor : Lobs a bubble that shields allies hit from the next 150 damage. You generate 1 for every 4 damage absorbed for a maximum of 150 per cast (maximum of 37. 5 per ally). Self-cast shields will not generate gold from monster damage. 15 second cooldown.
+Limitations Limited to 1 Gold Income item.
+xxDELIM2xxMercenary UpgradesxxDELIM1xxAvailability Summoner's Rift
+Consume Improves your brawler's abilities. See below.
+Menu Brawlers
+xxDELIM2xxOffense UpgradesxxDELIM1xxAvailability Summoner's Rift
+Consume Improves your brawler's attack damage. See below.
+Menu Brawlers
+xxDELIM2xxDefense UpgradesxxDELIM1xxAvailability Summoner's Rift
+Consume Improves your brawler's health. See below.
+Menu Brawlers
+xxDELIM2xxArcane SweeperxxDELIM1xxCovers an area with stealth-detecting mist for 5 seconds, granting vision of units which pass through it for 3 seconds (90 second cooldown) (800 range, 375 AoE Radius).
+Limitations Limited to 1 Trinket. Trinkets cannot be used in the first 30 seconds of a game. Selling a Trinket will disable Trinket use for 120 seconds.
+Starter Items › Vision & Trinkets
+xxDELIM2xxArchangel's Staff (Quick Charge)xxDELIM1xx+250 mana
++80 ability power
+Unique – Awe : Grants bonus ability power equal to 3% maximum mana . Refunds 25% of mana spent .
+Unique – Mana Charge : Grants +8 maximum mana (max +750 mana) for each spell cast and mana expenditure (occurs up to 2 times every 8 seconds).
+Transforms into Seraph's Embrace at +750 mana.
+Seraph's Embrace
+Magic › Ability Power
+Magic › Mana
+Mana Regen ›
++250 mana
++80 ability power
+Unique – Awe : Grants bonus ability power equal to 3% maximum mana . Refunds 25% of mana spent .
+Unique – Mana Charge : Grants +12 maximum mana (max +750 mana) for each spell cast and mana expenditure (occurs up to 2 times every 8 seconds).
+Transforms into Seraph's Embrace (Quick Charge) at +750 mana.
+Seraph's Embrace (Quick Charge)
+Magic › Ability Power
+Magic › Mana
+xxDELIM2xxManamune (Quick Charge)xxDELIM1xx+25 attack damage
++250 mana
+Unique – Awe : Grants bonus attack damage equal to 2% maximum mana . Refunds 15% of mana spent .
+Unique – Mana Charge : Grants +4 maximum mana for each basic attack, spell cast, and mana expenditure (occurs up to 2 times every 8 seconds), while also passively generating 1 maximum mana every 8 seconds.
+Transforms into Muramana at +750 mana.
+Muramana
+Magic › Mana
+Attack › Damage
+Magic › Mana Regen
++25 attack damage
++250 mana
+Unique – Awe : Grants bonus attack damage equal to 2% maximum mana . Refunds 15% of mana spent .
+Unique – Mana Charge : Grants +6 maximum mana for each basic attack, spell cast, and mana expenditure (occurs up to 2 times every 6 seconds).
+Transforms into Muramana at +750 mana.
+Muramana (Quick Charge)
+Magic › Mana
+Attack ›
+Magic › Mana Regen
+xxDELIM2xxMuramana (Quick Charge)xxDELIM1xx+25 attack damage
++1000 mana
+Unique – Awe : Grants bonus attack damage equal to 2% maximum mana . Refunds 15% spent mana .
+Unique – Shock : Unit-targeted abilities and basic attacks on champions ( on-hit ) consume 3% current mana to deal 6% current mana bonus physical damage . This effect only activates while you have greater than 20% maximum mana .
++25 attack damage
++1000 mana
+Unique – Awe : Grants bonus attack damage equal to 2% maximum mana . Refunds 15% spent mana .
+Unique – Shock : Unit-targeted abilities and basic attacks on champions ( on-hit ) consume 3% current mana to deal 6% current mana bonus physical damage . This effect only activates while you have greater than 20% maximum mana .
+xxDELIM2xxOdyn's VeilxxDELIM1xx+350 health
++50 magic resistance
++350 mana
+Unique: Reduces and stores 10% of magic damage received.
+Unique: Deals 200 + ( stored magic damage – max 400) magic damage to nearby enemy units (90 second cooldown) (525 range).
+Defense › Health
+Defense › Magic Resist
+Magic › Mana
+xxDELIM2xxPriscilla's BlessingxxDELIM1xxAvailability
+Tier Advanced
+Stats +25 health regeneration
+Passive UNIQUE : +15% Capture Rate (Does not stack with other Capture Rate modifiers)
+Active Unique: +30% movement speed for 2 seconds. 60 second cooldown.
+Menu Defense > Health regeneration
+xxDELIM2xxProspector's BladexxDELIM1xx+15% attack speed
++16 attack damage
+Unique – Prospector : +150 health
+Attack › Damage
+Attack › Attack Speed
+Defense › Health
+xxDELIM2xxProspector's RingxxDELIM1xx+35 ability power
++6 mana regeneration per 5 seconds Unique – Prospector : +150 health
+Magic › Ability Power
+Magic › Mana Regen
+Defense › Health
+xxDELIM2xxRod of Ages (Crystal Scar)xxDELIM1xx+300 health
++300 mana
++60 ability power
+This item gains 20 health, 10 mana and 4 ability power every minute, up to 10 times.
+Unique – Eternity : 15% of damage taken from champions is gained as mana. Spending mana restores 20% of mana spent as health, up to 25 per cast (toggle spells heal for up to 25 per second).
+Defense › Health
+Magic › Ability Power
+Magic › Mana
++300 health
++300 mana
++60 ability power
+This item gains 20 health, 10 mana and 4 ability power every 40 seconds, up to 10 times.
+Unique – Eternity : 15% of damage taken from champions is gained as mana. Spending mana restores 25% of mana spent as health, up to 25 per cast (toggle spells heal for up to 25 per second).
+Defense › Health
+Magic › Ability Power
+Magic › Mana
+xxDELIM2xxSeraph's Embrace (Quick Charge)xxDELIM1xx+1000 mana
++80 ability power
+Unique – Awe : Grants bonus ability power equal to 3% maximum mana . Refunds 25% of mana spent .
+Unique – Mana Shield : Drains 20% of your current mana to shield yourself for an equal amount plus 150 for 3 seconds (120 second cooldown).
++1000 mana
++80 ability power
+Unique – Awe : Grants bonus ability power equal to 3% maximum mana . Refunds 25% of mana spent .
+Unique – Mana Shield : Drains 20% of your current mana to shield yourself for an equal amount plus 150 for 3 seconds (120 second cooldown).
+xxDELIM2xxSoul AnchorxxDELIM1xxConsumes a charge to instantly revive you at your summoner platform and grants 125% movement speed that decays over 12 seconds. Soul Anchor starts with 1 charge, additional charges are gained at levels 9 and 14.
+Limitations Limited to 1 Trinket. Max: 2 charges.
+Tools › Vision & Trinkets
+xxDELIM2xxTear of the Goddess (Quick Charge)xxDELIM1xx+250 mana
+Unique – Awe : Refunds 15% of mana spent .
+Unique – Mana Charge : Grants +4 mana (max +750 mana) for each spell cast and mana expenditure. (Occurs up to 2 times every 8 seconds).
+Archangel's Staff Manamune
+Magic › Mana
+Magic › Mana Regen
++250 mana
+Unique – Awe : Refunds 15% of mana spent .
+Unique – Mana Charge : Grants +5 mana (max +750 mana) for each spell cast and mana expenditure. (Occurs up to 2 times every 6 seconds). Gains +1 mana every 6 seconds.
+Archangel's Staff (Quick Charge) Manamune (Quick Charge)
+Magic › Mana
+Magic › Mana Regen
+xxDELIM2xxThe LightbringerxxDELIM1xx+30 attack damage
++30% critical strike chance
+Unique – Critical Vision : Critical strikes cause enemies to bleed for an additional 90% of bonus AD as magic damage over 3 seconds and reveal them for the duration.
+Unique – Trap Detection : Nearby stealthed enemy traps are revealed.
+Unique: Covers a target area in a stealth-detecting mist that grants vision for 5 seconds and reveals enemies that enter it for 3 seconds (60 second cooldown) (800 range) (375 AOE estimate).
+Attack › Attack Damage
+Attack › Critical Strike
+xxDELIM2xxArcane HelixxxDELIM1xxAvailability Common
+Tier Advanced
+Stats +400 health +300 mana +10% cooldown reduction
+Passive Unique: Spending Mana heals you for 30% of the Mana spent.
+Menu Defense > Health Magic > Cooldown Reduction Magic > Mana
+xxDELIM2xxMandrake WardxxDELIM1xxAvailability Summoner's Rift
+Tier Consumable
+Consume Places an invisible blind sentry in a brush for 2 minutes. The plant will ping the map if a visible or invisible enemy is within 1000 range. (Counts as towards the max of 3 Stealth Wards placed at a time.) (May only carry 3 Stealth Wards at a time.)
+Menu Consumable
+xxDELIM2xxSpellbreakerxxDELIM1xxAvailability Summoner's Rift Crystal Scar
+Tier Legendary
+Stats +40 attack damage +25 magic resistance +20% critical strike chance
+Passive Melee only Unique – Lifeline : Upon taking magic damage that would reduce health below 30%, grants a shield that absorbs 400 magic damage for 5 seconds (90 second cooldown). Unique - Tenacity : The duration of most forms of crowd control is reduced by 35%.
+Menu Attack > Damage Defense > Magic Resist Attack > Critical strike
+xxDELIM2xxAlacrityxxDELIM1xxUnique – Alacrity : Grants +20 bonus movement speed .
+xxDELIM2xxAtma's ImpalerxxDELIM1xxAvailability Common
+Tier Legendary
+Stats +45 armor +15% critical strike chance
+Passive Unique: You gain attack damage equal to 1. 5 % of your maximum health .
+Menu Attack > Attack Damage Attack > Critical Strike Defense > Armor
+xxDELIM2xxAvarice BladexxDELIM1xx+10% critical strike chance
+Unique – Avarice : + 3 per 10 seconds
+Unique – Greed : Grants 2 upon killing a unit .
+Attack › Critical Strike
+Tools › Gold Income
+xxDELIM2xxBlackfire TorchxxDELIM1xxAvailability Twisted Treeline Crystal Scar
+Tier Legendary
+Stats +80 ability power +10% cooldown reduction
+Active Unique: Deals 20% of target champion's maximum Health in magic damage over 4 seconds and increases all subsequent magic damage taken by target by 20%. 90 second cooldown.
+Menu Magic > Ability Power Magic > Cooldown Reduction
+xxDELIM2xxCaptainxxDELIM1xxUnique – Captain : Grants +10% movement speed to nearby approaching allied champions.
+xxDELIM2xxCloak and DaggerxxDELIM1xx+20% attack speed
++20% critical strike chance
++35 tenacity
+Attack › Attack Speed
+Attack › Critical Strike
+xxDELIM2xxCrystalline FlaskxxDELIM1xxAvailability Summoner's Rift Twisted Treeline Crystal Scar
+Tier Consumable
+Passive Unique: Starts with 3 charges and refills each time you stop by your shop.
+Active Consumes a charge to restore 120 health and 60 mana over 12 seconds.
+Menu Defense > Health Regen Magic > Mana Regen Consumables
+xxDELIM2xxDeathfire GraspxxDELIM1xxAvailability Summoner's Rift Howling Abyss
+Tier Legendary
+Stats +120 ability power +10% cooldown reduction
+Active Unique: Deals 15% of target champion's maximum health in magic damage and applies the debuff, Doom. Doom amplifies all magic damage that champion takes by 20% for 4 seconds. 90 second cooldown (750 range).
+Menu Magic > Ability Power Magic > Cooldown Reduction
+xxDELIM2xxDervish BladexxDELIM1xx+45 magic resistance
++50% attack speed
++10% cooldown reduction
+Unique – Quicksilver : Removes all debuffs from your champion. Melee champions also gain +50% movement speed for 1 second. 90 second cooldown.
+Defense › Magic Resist
+Attack › Attack Speed
+Magic › Cooldown Reduction
+xxDELIM2xxDevourerxxDELIM1xx+40% attack speed
++30 on-hit magic damage
+Unique – Devouring : Takedowns grant Devourer stacks , increasing on-hit magic damage by +1.
+Stacks on takedown: +1 for champions and large monsters . +2 for Rift Scuttlers and Rift Herald . +5 for Dragon , Baron and Vilemaw .
+Transforms into Sated Devourer at 30 Devourer stacks .
+Attack › Attack Speed
+Attack › Damage
+xxDELIM2xxDistortionxxDELIM1xxUnique – Distortion : Ghost , Flash , and Teleport summoner spell cooldowns are reduced by 20% and are granted additional mobility: Ghost grants 40% bonus movement speed instead of 27%. Flash gives 20% bonus movement speed for 1 second after cast. Teleport gives 30% bonus movement speed for 3 second after use.
+xxDELIM2xxEleisa's MiraclexxDELIM1xx+10 health regeneration +15 mana regeneration
+Unique – Aid : Your Summoner Heal , Clarity and Clairvoyance cooldowns are reduced by 25%.
+Unique – Eleisa's Blessing : If you gain 3 levels with this item, you gain all the effects permanently and this item is consumed.
+Defense › Health Regen
+Magic › Mana Regen
+xxDELIM2xxElixir of AgilityxxDELIM1xxAvailability Summoner's Rift
+Tier Consumable
+Consume On use, grants 12–22% attack speed , based on champion level, and 8% critical strike for 4 minutes.
+Menu Consumables
+xxDELIM2xxElixir of BrilliancexxDELIM1xxAvailability SH
+Tier Consumable
+Consume On use, grants 25–40 ability power , based on champion level, and 10% cooldown reduction for 3 minutes.
+Menu Consumables
+xxDELIM2xxElixir of FortitudexxDELIM1xxAvailability SH
+Tier Consumable
+Consume On use, grants 120–235 health , based on champion level and 15 attack damage for 3 minutes.
+Menu Consumable
+xxDELIM2xxElixir of RuinxxDELIM1xxGrants the following effects for 3 minutes:
++250 health +15% bonus damage to turrets And Siege Commander .
+Unique – Siege Commander : Grants nearby minions +15% bonus damage to turrets and bonus movement speed based on your movement speed.
+Limitations Only one Elixir may be active at a time. Activating a new elixir will remove the old effect.
+Requirements Level 9 required to purchase.
+Tools › Consumable
+Defense › Health
+xxDELIM2xxEmblem of ValorxxDELIM1xxAvailability Common
+Tier Advanced
+Stats +20 armor
+Aura Unique - Valor : Nearby allied champions gain + 7 health regeneration per 5 seconds.
+Menu Defense > Armor Defense > Health Regen
+xxDELIM2xxExplorer's WardxxDELIM1xxAvailability Summoner's Rift
+Tier Consumable
+Consume Places an invisible ward that reveals the surrounding area for 60 seconds.
+Menu N/A
+xxDELIM2xxFarsight OrbxxDELIM1xxReveals an area up to 4000 units away for 2 seconds (90 second cooldown). Enemy champions hit will be revealed for 5 seconds. This does not affect stealth champions. Also places a visible ward in the area that lasts 60 seconds.
+Limitations Limited to 1 Trinket. Selling a Trinket will disable Trinket use for 120 seconds.
+Requirements Cannot be purchased until level 9 .
+Tools › Vision & Trinkets
+xxDELIM2xxFeral FlarexxDELIM1xxAvailability Summoner's Rift
+Tier Mythical
+Stats +30% attack speed +12 attack damage
+Passive Unique - Maim : Champion kills, assists and large monsters slain will grant Feral stacks. Basic attacks deal 25 (+1 per Feral stack) bonus magic damage and restore 10 health . Minions and monsters take triple the bonus magic damage. Unique : Gain 30% increased gold from monsters Unique - Gold Income : You may only be in possession of 1 Gold Income item.
+Active Unique : Places a Stealth Ward at target location that lasts for 180 seconds. 180 seconds cooldown (~1000 cast range).
+Menu Attack > Attack Speed Attack > Attack Damage
+xxDELIM2xxForce of NaturexxDELIM1xxAvailability Common
+Tier Advanced
+Stats +40 health regeneration +76 magic resistance +8% movement speed
+Passive Unique: You gain health regeneration equal to 1. 75 % of your maximum health .
+Menu Defense > Health Regen Defense > Magic Resist Movement
+xxDELIM2xxFurorxxDELIM1xxUnique – Furor : Whenever you deal damage with a single target attack or spell, you gain 12% movement speed that decays over 2 seconds.
+xxDELIM2xxGreater LensxxDELIM1xxAvailability Summoner's Rift
+Tier Greater Trinket
+Active Reveals and disables nearby invisible traps and wards for 6 seconds (60 second cooldown).
+Menu Trinket
+xxDELIM2xxGreater OrbxxDELIM1xxAvailability Summoner's Rift
+Tier Greater Trinket
+Active Reveals an area up to 2500 units away for 1 second (150 second cooldown.) Enemy champions hit will be revealed for 5 seconds. This does not affect stealth champions.
+Menu Trinket
+xxDELIM2xxGreater Stealth TotemxxDELIM1xxPlaces an Stealth Ward that lasts 180 seconds (60 second cooldown). Store a charge every 60 seconds, up to 2 total.
+Limitations Limited to 1 Trinket. Selling a Trinket will disable Trinket use for 120 seconds. Limited to 3 Stealth Wards on the map per player.
+Requirements Cannot be purchased until level 9 .
+Tools › Vision & Trinkets
+xxDELIM2xxGreater TotemxxDELIM1xxAvailability Summoner's Rift
+Tier Greater Trinket
+Active Places an Stealth Ward that lasts 120 seconds (120 second cooldown). Limit 3 Stealth Wards on the map per player.
+Menu Trinket
+xxDELIM2xxGreater Vision TotemxxDELIM1xxPlaces a Vision Ward that has infinite duration. (120 second cooldown).
+Limitations Limited to 1 Trinket. Selling a Trinket will disable Trinket use for 120 seconds. Limited to 1 Vision Ward on the map per player.
+Requirements Cannot be purchased until level 9 .
+Tools › Vision & Trinkets
+xxDELIM2xxGrez's Spectral LanternxxDELIM1xxAvailability Twisted Treeline
+Tier Legendary
+Stats +15 attack damage +30% attack speed
+Passive Unique Passive – Maim : Basic attacks against monsters deal 75 bonus magic damage and restore 10 health . Unique Passive – Gain 30% increased gold from monsters . Unique Passive – Trap Detection : Nearby stealthed enemy traps are revealed .
+Active Unique: A stealth-detecting mist grants vision in the target area for 5 seconds and reveals enemies that enter it for 3 seconds. 60 second cooldown. (800 Range, 375 AOE estimate)
+Menu Attack > Damage Attack > Attack Speed
+xxDELIM2xxHeart of GoldxxDELIM1xxAvailability Common
+Tier Advanced
+Stats +200 health
+Passive Unique: Gain +5 gold per 10 seconds.
+Menu Defense > Health
+xxDELIM2xxHomeguardxxDELIM1xxAvailability Summoner's Rift
+Passive Homeguard: Visiting the shop vastly increases health and mana regeneration and grants 75% bonus movement speed that decays over 7 seconds at 20 minutes, scaling up to 150% at 40 minutes. Bonus movement speed and regeneration are disabled for 8 seconds upon dealing or taking damage.
+Menu N/A
+xxDELIM2xxIchor of RagexxDELIM1xxAvailability Twisted Treeline
+Tier Consumable
+Consume On use, grants 20–40 Attack Damage , based on champion level, 20–40 attack speed (based on champion level) and 15% increased damage to Turrets for 3 minutes.
+Menu Consumable
+xxDELIM2xxIchor of IlluminationxxDELIM1xxAvailability Twisted Treeline
+Tier Consumable
+Consume On use, grants 30–64 Ability Power based on champion level, 10% Cooldown reduction and a huge boost to mana and energy rengeneration for 3 minutes.
+Menu Consumable
+xxDELIM2xxIonic SparkxxDELIM1xxAvailability Common
+Tier Advanced
+Stats +50% attack speed +250 health
+Passive Unique: Every fourth autoattack unleashes a chain lightning, dealing 125 magic damage to up to 4 targets. Targets cannot be hit twice by the same lightning. (400 bounce range )
+Menu Attack > Attack Speed Defense > Health
+xxDELIM2xxInnervating LocketxxDELIM1xxAvailability Common
+Tier Legendary
+Stats +430 health +450 mana
+Aura Unique: Nearby allies gain 20 health regeneration per 5 and 9 mana regeneration per 5.
+Passive Unique: +10% cooldown reduction . Unique: When you use an ability, you regenerate 50 health and 20 mana over 2 seconds. This effect has a 3 second cooldown.
+Menu Defense > Health Defense > Health Regen Magic > Cooldown Reduction Magic > Mana Magic > Mana Regen
+xxDELIM2xxJuggernautxxDELIM1xx+500 health
++10% cooldown reduction
+Unique – Tenacity : Reduces the duration of stuns, slows, taunts, fears, silences, blinds and immobilizes by 35%.
+Defense › Health
+xxDELIM2xxKage's Lucky PickxxDELIM1xxxxDELIM2xxKitae's BloodrazorxxDELIM1xxAvailability
+Tier Advanced
+Stats + 30 attack damage + 40% attack speed
+Passive Unique: Basic attacks deal 2. 5 % of target's maximum health as magic damage .
+Menu Attack > Attack Damage Attack > Attack Speed
+xxDELIM2xxLeviathanxxDELIM1xxAvailability Summoner's Rift
+Tier Advanced
+Stats +180 health
+Passive Unique: Your champion gains 32 health per stack, receiving 2 stacks for a kill and 1 stack for an assist . This effect can stack 20 times; you lose a third of your stacks if you die. At 20 stacks, your champion takes 15% less damage.
+Menu Defense > Health
+xxDELIM2xxLord Van Damm's PillagerxxDELIM1xx+300 health
++50 attack damage
++10% cooldown reduction
+Unique – Ashes to Ashes : Controlling the Altar on the allied side of the map sets you aflame, dealing 26 - 43 (based on level) magic damage per second to nearby enemies. Deals 「 50% bonus 」 「 39 - 64. 5 (based on level) 」 magic damage to minions and monsters . Controlling the Altar on the enemy's side of the map causes your basic attacks to burn targets for 12 - 114 (based on level) true damage over 3 seconds.
+Defense › Health
+Attack › Attack Damage
+Magic › Cooldown Reduction
+xxDELIM2xxMadred's BloodrazorxxDELIM1xxAvailability Item removed from game.
+Tier Legendary
+Stats +25 armor +40 attack damage +40% attack speed
+Passive Unique: Your basic attacks deal bonus magic damage equal to 4% of the target's maximum health (maximum 120 versus monsters ).
+Menu Attack > Attack Speed Attack > Damage Defense > Armor
+xxDELIM2xxMadred's RazorsxxDELIM1xxAvailability Twisted Treeline
+Tier Advanced
+Stats +15% attack speed
+Passive Unique - Maim : Basic attacks against monsters deal 50 bonus magic damage and restore 8 health .
+Menu Attack > Attack Speed
+xxDELIM2xxMagusxxDELIM1xx+80 ability power
++20% cooldown reduction
+Magic › Ability Power
+Magic › Cooldown Reduction
+xxDELIM2xxMaladyxxDELIM1xxAvailability Common
+Tier Advanced
+Stats +25 ability power +45% attack speed
+Passive Unique: Your basic attacks deal 15 + 10% AP bonus magic damage . Unique: Your basic attacks reduce enemy magic resistance by 4 for 8 seconds (maximum 7 stacks).
+Menu Attack > Attack Speed Magic > Ability Power
+xxDELIM2xxMana ManipulatorxxDELIM1xxAvailability Common
+Tier Advanced
+Aura Unique Aura - Mana Warp : Nearby allied champions gain +5 mana regeneration per 5 seconds. (1100 range)
+Menu Magic > Mana Regen
+xxDELIM2xxMana PotionxxDELIM1xxRegenerates 3. 33 mana every half-second for 15 seconds, restoring a total of 100 mana .
+Limitations Limited to 5 at one time.
+Starter Items › Laning
+Tools › Consumable
+xxDELIM2xxMeki PendantxxDELIM1xxAvailability Common
+Tier Basic
+Stats +7 mana regeneration
+Menu Magic > Mana Regen
+xxDELIM2xxOracle's ElixirxxDELIM1xxAvailability Summoner's Rift
+Tier Consumable
+Consume Grants your champion stealth detection for 4 minutes.
+Menu Consumable
+xxDELIM2xxOracle's LensxxDELIM1xxAvailability Common
+Menu N/A
+xxDELIM2xxOverlord's BloodmailxxDELIM1xx+800 health
++100% base health regeneration
+Unique: On kill or assist, heal for 300 health over 5 seconds.
+Defense › Health
+xxDELIM2xxPhilosopher's StonexxDELIM1xxxxDELIM2xxPoacher's KnifexxDELIM1xxAvailability Summoner's Rift Twisted Treeline
+Tier Advanced
+Stats + 30 on large monster kills
+Passive Unique – Scavenging Smite : Upgrades Smite to Scavenging Smite . When Scavenging Smite is used on a large monster in the enemy jungle, the recharge timer will be halved and the monster will be marked . Upon killing the marked monster, you gain + 20 and 175% movement speed that decays over 2 seconds. Unique – Jungler : Basic attacks against monsters apply Burning , dealing 22. 5 magic damage per second for 2 seconds. Gain Regeneration when hit by monsters, granting you 5 health and 2. 5 mana per half-second for 3 seconds.
+Menu N/A
+xxDELIM2xxQuill CoatxxDELIM1xxAvailability Summoner's Rift Twisted Treeline
+Tier Advanced
+Stats +20 armor
+Passive Unique - Sapping Barbs : You gain 40 HP/5 and 30 MP/5 for 5 seconds whenever you take damage from a monster. Additionally, monsters who attack you bleed for 5% of their maximum health over 3 seconds (maximum 150 damage). Sapping Barbs cannot deal lethal damage.
+Active Unique - Hunter's Ward : Places a Stealth Ward that reveals the surrounding area for 180 seconds (180 second cooldown - 600 range).
+Menu Defense > Armor
+xxDELIM2xxRanger's TrailblazerxxDELIM1xxAvailability Summoner's Rift Twisted Treeline
+Tier Advanced
+Stats + 30 on large monster kills
+Passive Unique – Blasting Smite : Upgrades Smite to Blasting Smite . Blasting Smite deals 50% splash 「 195 - 500 」 「 195 - 500 (based on level) 」 true damage to surrounding monsters and enemy minions and stuns all units hit for 1. 5 seconds. When cast on a monster, it will also restore 15% of your missing health and missing mana . Unique – Jungler : Basic attacks against monsters apply Burning , dealing 22. 5 magic damage per second for 2 seconds. Gain Regeneration when hit by monsters, granting you 5 health and 2. 5 mana per half-second for 3 seconds.
+Menu N/A
+xxDELIM2xxRegrowth PendantxxDELIM1xxAvailability Common
+Tier Basic
+Stats +15 health regeneration
+Menu Defense > Health Regen
+xxDELIM2xxRunic BulwarkxxDELIM1xxAvailability Common
+Tier Mythical
+Stats +300 health +20 armor +30 magic resistance
+Aura Unique - Legion : Nearby allies gain +10 armor, +25 magic resistance, and +10 health regeneration . Nearby minions gain an additional 50% armor, magic resistance, and health regen.
+Menu Defense > Health Defense > Armor Defense > Magic Resist Defense > Health Regen
+xxDELIM2xxRuneglaivexxDELIM1xx+250 mana
++40 ability power
++10% cooldown reduction
+Unique – Spellblade : After using an ability , your next basic attack ( on-hit ) deals 100% base AD + (30% AP) bonus magic damage (1. 5 second cooldown ).
+Against monsters , Spellblade deals area of effect magic damage around the target and restores 8% missing mana . Spellblade also deals double damage ( 200% base AD + (60% AP) ) against the first monster hit.
+Magic › Ability Power
+Magic › Mana
+Magic › Cooldown Reduction
+xxDELIM2xxSanguine BladexxDELIM1xx+45 attack damage
++10% life steal
+Unique: Your basic attacks grant +6 attack damage and +1% life steal for 8 seconds (maximum 5 stacks).
+Attack › Damage
+Attack › Life Steal
+xxDELIM2xxSated DevourerxxDELIM1xx+40% attack speed
++60 on-hit magic damage
+Unique – Phantom Hit : Every second basic attack against non-structures will trigger a phantom attack , applying on-hit effects twice.
+Limitations On ranged champions , Phantom Hit will trigger every fourth basic attack instead.
+xxDELIM2xxScrying OrbxxDELIM1xxAvailability Summoner's Rift and Crystal Scar
+Tier Basic Trinket
+Active Reveals a small location within 2500 / 3500 range for 2 seconds (120 second cooldown). Enemy champions hit will be revealed for 5 seconds. This does not affect stealth champions.
+Menu Trinket
+xxDELIM2xxShard of True IcexxDELIM1xxUnique Aura: Mana Warp - Nearby allied champions gain 5 mana regen per 5 seconds.
+xxDELIM2xxShurelya's ReveriexxDELIM1xxAvailability Common
+Tier Legendary
+Stats +250 health +10 health regeneration +10 mana regeneration
+Passive +10% cooldown reduction
+Active Unique: Nearby allies gain 40% movement speed for 3 seconds (60 second cooldown). (600 range)
+Menu Defense > Health Defense > Health Regen Magic > Cooldown Reduction Magic > Mana Regen Movement
+xxDELIM2xxSpirit of the Ancient GolemxxDELIM1xxAvailability Summoner's Rift Twisted Treeline
+Tier Legendary
+Stats +200 health +20 Armor +10% cooldown reduction
+Passive Unique: +25% bonus health Unique - Sapping Barbs : You gain 60 HP/5 and 45 MP/5 for 5 seconds whenever you take damage from a monster. Additionally, monsters who attack you bleed for 5% of their maximum health over 3 seconds (maximum 150 damage). Sapping Barbs cannot deal lethal damage. Unique - Conservation : You generate Conservation stacks every 1. 5 seconds, up to 80. Killing a large monster will consume up to 40 stacks and grant 1 bonus gold per stack consumed. You may only be in possession of 1 Gold Income item . Unique - Trap Detection : Nearby stealthed enemy traps are revealed.
+Active Unique - Hunter's Ward : Places a Stealth Ward that reveals the surrounding area for 180 seconds (180 second cooldown - 600 range). Unique - Trap Detection : Covers a target area in a stealth-detecting mist that grants vision for 5 seconds and reveals enemies that enter it for 3 seconds (60 second cooldown)
+Menu Gold Income Defense > Health Defense > Armor Magic > Cooldown Reduction
+xxDELIM2xxSpirit of the Elder LizardxxDELIM1xxAvailability Summoner's Rift Twisted Treeline
+Tier Legendary
+Stats +30 attack damage +10% cooldown reduction
+Passive Unique - Incinerate : Deals an additional 14 + (2 × level) bonus true damage over 3 seconds upon dealing physical damage . Unique - Butcher : Against monsters, deal 20% bonus damage and restore 6% of damage dealt to monsters as health and 3% as mana. Unique - Conservation : You generate Conservation stacks every 1. 5 seconds, up to 80. Killing a large monster will consume up to 40 stacks and grant 1 bonus gold per stack consumed. You may only be in possession of 1 Gold Income item .
+Menu Gold Income Defense > Health Regen Attack > Damage Magic > Mana Regen
+xxDELIM2xxSpirit of the Spectral WraithxxDELIM1xxAvailability Summoner's Rift Twisted Treeline
+Tier Legendary
+Stats +50 ability power +10% cooldown reduction
+Passive Unique - Spirit Drain : Grants 2 ability power for every large monster kill (max: 15 stacks) Unique - Butcher : Against monsters, deal 30% bonus damage and restore 6% of damage dealt to monsters as health and 3% as mana. Unique - Conservation : You generate Conservation stacks every 1. 5 seconds, up to 80. Killing a large monster will consume up to 40 stacks and grant 1 bonus gold per stack consumed. You may only be in possession of 1 Gold Income item .
+Menu Gold Income Magic > Ability Power Magic > Cooldown Reduction
+xxDELIM2xxSpirit StonexxDELIM1xxAvailability Summoner's Rift Twisted Treeline
+Tier Advanced
+Passive Unique Passive - Butcher : Against monsters, deal 20% bonus damage and restore 6% of damage dealt as health and 3% as mana.
+Menu Defense > Health Regen Magic > Mana Regen
+xxDELIM2xxSoul ShroudxxDELIM1xxAvailability Common
+Tier Legendary
+Stats +520 health
+Aura Unique: Nearby champions gain +10% cooldown reduction and +12 mana regeneration . (1200 range)
+Menu Defense > Health Magic > Cooldown Reduction Magic > Mana Regen
+xxDELIM2xxStealth WardxxDELIM1xxxxDELIM2xxSword of the DivinexxDELIM1xxAvailability Common
+Tier Advanced
+Stats +45% attack speed
+Passive Passive: This item does not grant any attack speed while on cooldown . Champion kills reduce the current cooldown by 50%.
+Active Unique: You gain 100% attack speed and 100% critical strike chance for 3 seconds or 3 critical strikes. 60 second cooldown.
+Menu Attack > Attack Speed Attack > Critical Strike
+xxDELIM2xxSword of the OccultxxDELIM1xx+10 attack damage
+Unique: Grants 5 attack damage per stack and starts with 5 stacks upon first purchase. Grants 2 stacks for a kill or 1 stack for an assist, maximum 20 stacks, for a total of 100 attack damage . Half of the stacks are lost upon death. At 20 stacks, grants 20% bonus attack speed .
+Attack › Damage
+xxDELIM2xxThe BrutalizerxxDELIM1xx+25 attack damage
+Unique: +10% cooldown reduction
+Unique: +10 armor penetration
+Attack › Damage
+Magic › Cooldown Reduction
+xxDELIM2xxTwin ShadowsxxDELIM1xx+6% movement speed
++80 ability power
++10% cooldown reduction
+Unique – Hunt : Summons up to 2 invulnerable ghosts that seek out the 2 nearest enemy champions for 6 seconds. If a ghost reaches its target, it reveals the target and reduces their movement speed by 40% for 2. 5 seconds. If a ghost cannot find a target, it tries to return to the caster. Ghosts that successfully return in this way reduce the item's cooldown by 40 seconds (120 second cooldown).
+Magic › Ability Power
+Magic › Cooldown Reduction
+Movement › Other Movement Items
++6% movement speed
++80 ability power
++10% cooldown reduction
+Unique – Trap Detection : Nearby stealthed enemy traps are revealed.
+Unique – Hunt : Summons up to 2 invulnerable ghosts that seek out the 2 nearest enemy champions for 6 seconds. If a ghost reaches its target, it reveals the target and reduces their movement speed by 40% for 2. 5 seconds. If a ghost cannot find a target, it tries to return to the caster. Ghosts that successfully return in this way reduce the item's cooldown by 20 seconds (60 second cooldown).
+Magic › Ability Power
+Magic › Cooldown Reduction
+Movement › Other Movement Items
+xxDELIM2xxVision WardxxDELIM1xxPlaces a visible ward with 1100 units range sight and 1000 units range true sight . Until killed, it regenerates 1 health every 3 seconds after 5 seconds out of combat.
+Limit 1 Vision Ward on the map per player.
+Limitations Can only carry 2 Vision Wards in inventory.
+Starter Items › Laning
+Tools › Vision & Trinkets
+xxDELIM2xxWicked HatchetxxDELIM1xx+20 attack damage
++10% critical strike chance
+Unique: Critical strikes causes your target to bleed for an additional 60% of your bonus AD as magic damage over 3 seconds.
+Lord Van Damm's Pillager
+Attack › Attack Damage
+Attack › Critical Strike
+xxDELIM2xxWill of the AncientsxxDELIM1xxAvailability Common
+Tier Legendary
+Stats +80 ability power +10% cooldown reduction
+Passive Unique: Abilities instantly heal for 15% of raw damage dealt, including physical, magical and true damage. Area of effect abilities only heal 5% for every unit affected.
+Menu Magic > Ability Power Magic > Cooldown Reduction
+xxDELIM2xxWriggle's LanternxxDELIM1xxAvailability Summoner's Rift
+Tier Legendary
+Stats +30% attack speed +12 attack damage
+Passive Unique - Maim : Basic attacks against monsters deal 75 bonus magic damage and restore 10 health . Unique : Gain 30% increased gold from monsters Unique - Gold Income : You may only be in possession of 1 Gold Income item.
+Active Unique : Places a Stealth Ward at target location that lasts for 180 seconds. 180 seconds cooldown (600 cast range).
+Menu Attack > Attack Speed Attack > Damage
+xxDELIM2xxZeke's HeraldxxDELIM1xx+250 health
++20% cooldown reduction
+Unique: Nearby allied champions gain +20 attack damage and +10% life steal . (1100 Range)
+Defense › Health
+Attack › Damage
+Attack › Life Steal
+Magic › Cooldown Reduction
+xxDELIM2xxZephyrxxDELIM1xx+50% attack speed
++25 attack damage
++10% movement speed
++10% cooldown reduction
+Unique – Tenacity : Reduces the duration of all crowd control effects by 35% (except for Suppression , Stasis , and Displacements )
+Attack › Damage
+Attack › Attack Speed
+Magic › Cooldown Reduction
+Movement › Other Movement Items
+xxDELIM2xxZhonya's RingxxDELIM1xxAvailability Common
+Tier Advanced
+Stats +120 ability power
+Passive UNIQUE: Increases ability power by 25%.
+Active Unique Active - Stasis : Put yourself in stasis for 2 seconds, rendering yourself untargetable and invulnerable for the duration, but also unable to move, attack, cast spells, or use items during this time. 90 second cooldown.
+Menu Magic > Ability Power
+xxDELIM2xx
