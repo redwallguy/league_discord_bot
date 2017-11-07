@@ -12,6 +12,7 @@ import discord
 import logging
 import asyncio
 import traceback
+import json
 
 client = discord.Client()
 logger = logging.getLogger('discord')
@@ -23,6 +24,10 @@ handler.setFormatter(logging.Formatter('%(asctime)s:%' \
 logger.addHandler(handler)
 
 redditregex = re.compile(r"\[\[(.+?)\]\]")
+
+with open("discord_keys.txt") as f:
+    token_arr = json.load(f)
+    token = token_arr["token"]
 
 @client.event
 async def on_ready():
@@ -247,7 +252,7 @@ async def on_message(message):
 
 while True:
     try:
-        client.run('MzczMTk1NjE2NzA2MTAxMjY5.DNPNrg.RbAQc5yqccCStdZvCLC6cXVsP-I')
+        client.run(token)
     except:
         traceback.print_exc()
         print("Sleepy time")
