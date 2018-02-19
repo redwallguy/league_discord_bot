@@ -1,4 +1,3 @@
-#!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5
 import requests
 import re
 import pyquery
@@ -11,7 +10,6 @@ import time
 import discord
 import logging
 import asyncio
-import traceback
 import json
 
 client = discord.Client()
@@ -253,7 +251,7 @@ async def on_message(message):
 while True:
     try:
         client.run(token)
-    except:
-        traceback.print_exc()
+    except Exception as e:
+        print(e)
         print("Sleepy time")
         time.sleep(60)
