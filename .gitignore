@@ -1,3 +1,4 @@
 .DS_Store
 praw.ini
 *.txt
+*.log
